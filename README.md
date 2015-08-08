@@ -2,8 +2,8 @@
 
 ### Package Managers
 
-- **<a href="" target="_blank" title=""></a>[Bower](http://bower.io/)**
-- **<a href="" target="_blank" title=""></a>[NPM](https://www.npmjs.com/)**
+- **<a href="http://bower.io/" target="_blank" title="">Bower</a>**
+- **<a href="https://www.npmjs.com/" target="_blank" title="">npm</a>**
 - **<a href="http://yeoman.io/" target="_blank" title="">Yeoman</a>**
 
 ### Build Automation/Task Runners
@@ -18,15 +18,15 @@
 ### Client-side Application Frameworks
 
 - **<a href="https://angularjs.org/" target="_blank" title="">AngularJS</a>**
-- **<a href="" target="_blank" title="">BackboneJS</a>**
-- **<a href="" target="_blank" title="">EmberJS</a>**
-- **<a href="" target="_blank" title="">ReactJS</a>**
+- **<a href="http://backbonejs.org/" target="_blank" title="">BackboneJS</a>**
+- **<a href="http://emberjs.com/" target="_blank" title="">EmberJS</a>**
+- **<a href="http://facebook.github.io/react/" target="_blank" title="">ReactJS</a>**
 
 ### Front-end CSS Frameworks
 
 - **<a href="http://getbootstrap.com/" target="_blank" title="">Bootstrap</a>**
-- **<a href="" target="_blank" title="">Foundation by Zurb</a>**
-- **<a href="" target="_blank" title="">Skeleton</a>**
+- **<a href="http://foundation.zurb.com/" target="_blank" title="">Foundation by Zurb</a>**
+- **<a href="http://getskeleton.com/" target="_blank" title="">Skeleton</a>**
     
 ### Front End Libraries
 
@@ -37,7 +37,7 @@
 
 - **<a href="http://lesscss.org/" target="_blank" title="">LESS</a>**
 - **<a href="http://sass-lang.com/" target="_blank" title="">Sass</a>**
-- **<a href="" target="_blank" title="">Stylus</a>**
+- **<a href="https://learnboost.github.io/stylus/" target="_blank" title="">Stylus</a>**
 
 ### JavaScript Supersets (Transpilers)
 
@@ -53,7 +53,7 @@
 
 ### Additional Tools
 
-- **<a href="" target="_blank" title="">Emmet</a>**
-- **<a href="" target="_blank" title="">Markdown</a>**
+- **<a href="http://emmet.io/" target="_blank" title="">Emmet</a>**
+- **<a href="http://daringfireball.net/projects/markdown/" target="_blank" title="">Markdown</a>**
 
 
