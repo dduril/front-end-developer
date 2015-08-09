@@ -23,7 +23,37 @@ And check the version numbers:
 
 Create a package.json file:
 
-	C:\>npm init
+	C:\dev\node\demo>npm init
+
+Install Bootstrap and jQuery using <code>--save</code> option.
+
+	C:\dev\node\demo>
+	C:\dev\node\demo>
+
+Install Gulp using <code>--save-dev</code> option.
+
+	C:\dev\node\demo>npm install gulp --save-dev
+
+The package.json file
+
+	{
+  		"name": "demo",
+  		"version": "1.0.0",
+  		"description": "demo node application",
+  		"main": "index.js",
+  		"scripts": {
+    		"test": "echo \"Error: no test specified\" && exit 1"
+  		},
+  		"author": "",
+  		"license": "ISC",
+  		"dependencies": {
+    		"bootstrap": "^3.3.5",
+    		"jquery": "^2.1.4"
+  		},
+  		"devDependencies": {
+    		"gulp": "^3.9.0"
+  		}
+	}
 
 
 
