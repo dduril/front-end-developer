@@ -34,7 +34,7 @@ Install Gulp using <code>--save-dev</code> option.
 
 	C:\dev\node\demo>npm install gulp --save-dev
 
-The package.json file
+The package.json file:
 
 	{
   		"name": "demo",
@@ -54,6 +54,10 @@ The package.json file
     		"gulp": "^3.9.0"
   		}
 	}
+
+Install package.json file:
+
+	C:\dev\node\demo>npm install
 
 
 
