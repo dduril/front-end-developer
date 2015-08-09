@@ -2,12 +2,32 @@
 
 Install Node.js to your system.
 
-Check the installation at the command prompt:
+Check the version of Node:
 
-	C:\node -v
+	C:\>node -v
 
-Node installs with npm. 
-Check the installation of npm at the command prompt:
+Node installs with a package manager - npm. 
+Check the version of npm:
 
-	C:\npm -v
+	C:\>npm -v
+
+Install packages using npm:
+
+	C:\>npm install -g bower
+	C:\>npm install -g gulp
+
+And check the version numbers:
+
+	C:\>bower -v
+	C:\>gulp -v
+
+Create a package.json file:
+
+	C:\>npm init
+
+
+
+
+
+
 
