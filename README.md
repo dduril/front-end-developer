@@ -19,9 +19,10 @@
 ### Client-side Application Frameworks
 
 - **<a href="https://angularjs.org/" target="_blank" title="AngularJS">AngularJS</a>**
-- **<a href="http://backbonejs.org/" target="_blank" title="BackboneJS">BackboneJS</a>**
-- **<a href="http://emberjs.com/" target="_blank" title="EmberJS">EmberJS</a>**
-- **<a href="http://facebook.github.io/react/" target="_blank" title="ReactJS">ReactJS</a>**
+- **<a href="http://backbonejs.org/" target="_blank" title="Backbone">Backbone</a>**
+- **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>**
+- **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>**
+- **<a href="http://facebook.github.io/react/" target="_blank" title="React">React</a>**
 
 ### Front-end CSS Frameworks
 
@@ -33,6 +34,7 @@
 
 - **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
 - **<a href="https://jqueryui.com/" target="_blank" title="jQueryUI">jQueryUI</a>**
+- **<a href="http://jquerymobile.com/" target="_blank" title="">jQuery Mobile</a>**
      
 ### CSS Preprocessors
 
