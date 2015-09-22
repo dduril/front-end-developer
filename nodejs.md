@@ -1,6 +1,10 @@
 # Node.js
 
-Install Node.js to your system.
+## npm
+
+Install Node.js to your system. (Windows)
+
+	C:\users\[name]\AppData\Roaming\npm\node_modules
 
 Check the version of Node:
 
@@ -27,12 +31,16 @@ Create a package.json file:
 
 Install Bootstrap and jQuery using <code>--save</code> option.
 
-	C:\dev\node\demo>
-	C:\dev\node\demo>
+	C:\dev\node\demo>npm bootstrap --save
+	C:\dev\node\demo>npm jquery --save
 
 Install Gulp using <code>--save-dev</code> option.
 
 	C:\dev\node\demo>npm install gulp --save-dev
+
+An alternative approach would be to use **Bower** to install **Client-side** libraries like Angular and Bootstrap. 
+
+And to use **npm** to install **Server-side** libraries like Grunt and Gulp. This creates a nice separation between all of the libraries, which can easily grow in size and numbers.
 
 The package.json file:
 
@@ -58,6 +66,22 @@ The package.json file:
 Install package.json file:
 
 	C:\dev\node\demo>npm install
+
+## Bower
+
+Create a bower.json file:
+
+	C:\dev\node\demo>bower init
+
+You can also create a .bowerrc file and place it at the root of your project folder. This file will then install all Bower libraries into the specified folder:
+
+    {
+    "directory": "bower_components",
+	}
+
+Install bower.json file:
+
+    C:\dev\node\demo>bower install
 
 
 
