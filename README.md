@@ -45,17 +45,19 @@
 ### Module Loaders
 - **<a href="http://browserify.org/" target="_blank" title="Browserify">Browserify</a>**
 - **<a href="http://requirejs.org/" target="_blank" title="RequireJS">RequireJS</a>**
+- **<a href="https://webpack.github.io/" target="_blank" title="Webpack">Webpack</a>**
 
 ### JavaScript Supersets (Transpilers)
 
 - **<a href="http://coffeescript.org/" target="_blank" title="CoffeeScript">CoffeeScript</a>**
 - **<a href="http://www.typescriptlang.org/" target="_blank" title="TypeScript">TypeScript</a>**
 
-### Editors/Environments
+### Text Editors and Integrated Development Environments (IDE)
 
 - **<a href="http://brackets.io/" target="_blank" title="Brackets">Brackets</a>**
+- **<a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a>**
 - **<a href="http://www.sublimetext.com/" target="_blank" title="Sublime">Sublime Text</a>**
-- **<a href="https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx" target="_blank" title="Visual Studio">Visual Studio</a>**
+- **<a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">Visual Studio Code</a>**
 - **<a href="https://www.jetbrains.com/webstorm/" target="_blank" title="WebStorm">WebStorm</a>**
 
 
