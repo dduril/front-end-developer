@@ -1,5 +1,7 @@
 # Front End Developer
 
+The development stack for the Front-End or Full Stack Developer has grown and continues to morph and expand as more layers and tools are added. It's quite an endeavor to keep up with all of this tech, but also makes for exciting and creative solutions, as there is so many ways to build web apps.
+
 ### Package Managers
 
 - **<a href="http://bower.io/" target="_blank" title="Bower">Bower</a>**
