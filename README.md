@@ -1,6 +1,8 @@
 # Front End Developer
 
-The development stack for the Front-End or Full Stack Developer has grown and continues to morph and expand as more layers and tools are added. It's quite an endeavor to keep up with all of this tech, but also makes for exciting and creative solutions, as there is so many ways to build web apps.
+The development stack for the Front-End or Full Stack Developer has grown and continues to expand as more layers and tools are added. It's quite an endeavor to keep up with all of this tech, but also makes for exciting and creative solutions, as there are so many ways to build web apps. 
+
+This list comprises on ongoing collection of Front-End development tools and libraries that can be mixed and matched for projects.
 
 ### Package Managers
 
