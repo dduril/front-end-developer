@@ -15,7 +15,7 @@ Check the version of npm:
 
 	C:\>npm -v
 
-Install packages using npm:
+Install some packages using npm:
 
 	C:\>npm install -g bower
 	C:\>npm install -g gulp
@@ -25,14 +25,18 @@ And check their version numbers:
 	C:\>bower -v
 	C:\>gulp -v
 
-Create a package.json file:
+Create a package.json file for your project:
 
 	C:\dev\node\demo>npm init
 
-Install Bootstrap and jQuery using <code>--save</code> option.
+Install Bootstrap and jQuery using the <code>--save</code> option. 
 
 	C:\dev\node\demo>npm bootstrap --save
 	C:\dev\node\demo>npm jquery --save
+
+You can also install multiple packages using <code>--save</code>.
+
+	C:\dev\node\demo>npm angular bootstrap jqery --save
 
 Install Gulp using <code>--save-dev</code> option.
 
