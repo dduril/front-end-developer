@@ -20,7 +20,7 @@ Install packages using npm:
 	C:\>npm install -g bower
 	C:\>npm install -g gulp
 
-And check the version numbers:
+And check their version numbers:
 
 	C:\>bower -v
 	C:\>gulp -v
@@ -37,6 +37,21 @@ Install Bootstrap and jQuery using <code>--save</code> option.
 Install Gulp using <code>--save-dev</code> option.
 
 	C:\dev\node\demo>npm install gulp --save-dev
+
+Install multiple packages to the devDependencies section of the package.json file.
+	
+	C:\development\demo>npm install gulp gulp-jscs gulp-jshint --save-dev
+
+### Update
+
+	C:\development\demo>npm update
+
+
+### Uninstall
+
+	C:\development\demo>npm uninstall
+
+
 
 An alternative approach would be to use **Bower** to install **Client-side** libraries like Angular and Bootstrap. 
 
@@ -69,8 +84,57 @@ Install package.json file:
 
 ## Bower
 
-Create a bower.json file:
+### install
 
+	C:\>npm install -g bower
+
+
+### help
+	C:\development\demo>bower help
+
+
+### info
+	C:\development\demo>bower info jquery
+
+
+### init
+	C:\development\demo>bower init
+
+
+### install
+
+Install using project's bower.json file.
+
+	C:\development\demo>bower install
+
+
+Install a single package to the dependencies section of the bower.json file.
+	
+	C:\development\demo>bower install --save angular
+
+
+Install multiple packages to the dependencies section of the bower.json file.
+	
+	C:\development\demo>bower install angular bootstrap jquery --save
+
+### list
+	
+	C:\development\demo>bower list
+
+### update
+	
+	C:\development\demo>bower update
+
+### uninstall
+	
+	C:\development\demo>bower uninstall
+
+### Check Bower version
+	
+	C:\development\demo>bower -v
+
+### Create a bower.json file:
+	
 	C:\dev\node\demo>bower init
 
 You can also create a .bowerrc file and place it at the root of your project folder. This file will then install all Bower libraries into the specified folder:
@@ -78,11 +142,6 @@ You can also create a .bowerrc file and place it at the root of your project fol
     {
     "directory": "bower_components",
 	}
-
-Install bower.json file:
-
-    C:\dev\node\demo>bower install
-
 
 
 
