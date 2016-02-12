@@ -70,7 +70,7 @@
 
 ### Date and String objects
 
-A few examples using the Date object
+A few examples using the Date object.
 
 	var today = new Date();
 	console.writeln(today.toDateString());
@@ -78,7 +78,7 @@ A few examples using the Date object
 	console.writeln(today.getDate());
 	console.writeln(today.getMonth());
 
-A few examples using the String object
+A few examples using the String object.
 
 	var name = "John Smith";
 	var name_lower = name.toLowerCase();		// john smith
@@ -88,10 +88,28 @@ A few examples using the String object
 	var first_name = name.substr(0, index);		// John
 
 ### Anonymous function
-
 	var $ = function(id) {
 		return document.getElementById(id);
 	}
 
 	// how to call the function
 	var first_name = $("first_name").value;
+
+Another example.
+
+	var addNumbers = function(x, y) {
+		return x + y;
+	}
+
+	var a = 10;
+	var b = 15;
+	var total = addNumbers(a, b);
+
+### Named function
+	function addNumbers(x, y) {
+		return x + y;
+	}
+	
+	var a = 10;
+	var b = 15;
+	var total = addNumbers(a, b);
