@@ -86,3 +86,12 @@ A few examples using the String object
 	var name_length = name.length;				// 10
 	var index = name.indexOf(" ");				// 4
 	var first_name = name.substr(0, index);		// John
+
+### Anonymous function
+
+	var $ = function(id) {
+		return document.getElementById(id);
+	}
+
+	// how to call the function
+	var first_name = $("first_name").value;
