@@ -113,3 +113,17 @@ Another example.
 	var a = 10;
 	var b = 15;
 	var total = addNumbers(a, b);
+
+Another example.
+	function calculateTax = function(sub_total, tax_rate) {
+		var tax = sub_total * tax_rate;
+		tax = parseFloat(tax.toFixed(2));
+		return tax;
+	}
+
+	var sub_total = 50;
+    var tax_rate = .0975;
+    tax_amount = calculateTax(sub_total, tax_rate);
+
+    var total = sub_total + tax_amount;    
+    console.info(parseFloat(total.toFixed(2)));
