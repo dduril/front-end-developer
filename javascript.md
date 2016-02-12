@@ -67,3 +67,22 @@
 ### toFixed
 	var total_compensation = year_end_salary + bonus;
     $("total_compensation").value = total_compensation.toFixed(2);
+
+### Date and String objects
+
+A few examples using the Date object
+
+	var today = new Date();
+	console.writeln(today.toDateString());
+	console.writeln(today.getFullYear());
+	console.writeln(today.getDate());
+	console.writeln(today.getMonth());
+
+A few examples using the String object
+
+	var name = "John Smith";
+	var name_lower = name.toLowerCase();		// john smith
+	var name_upper = name.toUpperCase();		// JOHN SMITH
+	var name_length = name.length;				// 10
+	var index = name.indexOf(" ");				// 4
+	var first_name = name.substr(0, index);		// John
