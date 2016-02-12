@@ -20,3 +20,50 @@
 
 ## Basics
 
+### if
+	if (x > y) {
+		console.writeln("x is greater than y");
+	}
+
+### if with an else clause
+	if (x > y) {
+		console.writeln("x is greater than y");
+	} else {
+		console.writeln("x is less than y);
+	}
+
+### if with else if and else clauses
+	if (x > y) {
+		console.writeln("x is greater than y");
+	} else if (x < y) {
+		console.writeln("x is less than y);
+	} else {
+		console.writeln("x is equal to y");
+	}
+
+### while loop
+	var x = 0;
+	while (x <= 10) {
+		console.writeln(x);
+		x++;
+	}
+
+### do-while loop
+	var x = 0;
+	do {
+		console.writeln(x);
+		x++;
+	} while ( x <= 10);
+
+### for loop
+	for (x = 0; x <= 10; x++) {
+		console.writeln(x);
+	}
+
+### parseInt, parseFloat
+	var dept_no = parseFloat($("dept_no").value);
+    var bonus = parseFloat($("bonus").value);
+
+### toFixed
+	var total_compensation = year_end_salary + bonus;
+    $("total_compensation").value = total_compensation.toFixed(2);
