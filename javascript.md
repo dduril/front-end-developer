@@ -152,10 +152,12 @@ Another example.
 	}
 
 ### Document methods
-	var section = document.getElementById("section");
-	var article = document.getElementsByName("article");
-	var list = document.getElementById("list");
-	var items = list.getElementsByTagName("li");
+	<script>
+		var section = document.getElementById("section");
+		var article = document.getElementsByName("article");
+		var list = document.getElementById("list");
+		var items = list.getElementsByTagName("li");
+	</script>
 
 	<div id="section">
 		<div name="article">
