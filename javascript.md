@@ -158,7 +158,7 @@ Another example.
 		var list = document.getElementById("list");
 		var items = list.getElementsByTagName("li");
 	</script>
-
+ 
 	<div id="section">
 		<div name="article">
 			<ul id="list">
