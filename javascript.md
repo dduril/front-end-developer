@@ -150,3 +150,20 @@ Another example.
 	for (var i in squares) {
 		console.info(squares[i]);
 	}
+
+### Document methods
+	var section = document.getElementById("section");
+	var article = document.getElementsByName("article");
+	var list = document.getElementById("list");
+	var items = list.getElementsByTagName("li");
+
+	<div id="section">
+		<div name="article">
+			<ul id="list">
+				<li>one</li>
+				<li>two</li>
+				<li>three</li>
+			</ul>
+		</div>
+	</div>
+	
