@@ -16,16 +16,15 @@ This list comprises on ongoing collection of Front-End development tools and lib
 - **<a href="http://gruntjs.com/" target="_blank" title="Grunt">Grunt.js</a>**
 - **<a href="http://gulpjs.com/" target="_blank" title="Gulp">Gulp.js</a>** 
 
-### Platforms
-
-- **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
-  
-### Client-side Application Frameworks
+### JavaScript Frameworks/Platforms
 
 - **<a href="https://angularjs.org/" target="_blank" title="AngularJS">AngularJS</a>**
 - **<a href="http://backbonejs.org/" target="_blank" title="Backbone">Backbone</a>**
 - **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>**
 - **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>**
+- **<a href="https://www.meteor.com/" target="_blank" title="Meteor">Meteor</a>**
+- **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
+- **<a href="https://www.polymer-project.org/1.0/" target="_blank" title="Polymer">Polymer</a>**
 - **<a href="http://facebook.github.io/react/" target="_blank" title="React">React</a>**
 
 ### Front-end CSS Frameworks
@@ -34,8 +33,12 @@ This list comprises on ongoing collection of Front-End development tools and lib
 - **<a href="http://foundation.zurb.com/" target="_blank" title="Foundation">Foundation by Zurb</a>**
 - **<a href="http://getskeleton.com/" target="_blank" title="Skeleton">Skeleton</a>**
     
-### Front End Libraries
+### Front-end Libraries
 
+- **<a href="https://d3js.org/" target="_blank" title="D3.js">D3.js</a>**
+- **<a href="https://developers.google.com/chart/" target="_blank" title="Google Charts">Google Charts</a>**
+- **<a href="https://developers.google.com/maps/" target="_blank" title="Google Maps API">Google Maps API</a>**
+- **<a href="http://www.highcharts.com/" target="_blank" title="HighCharts">HighCharts</a>**
 - **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
 - **<a href="https://jqueryui.com/" target="_blank" title="jQueryUI">jQueryUI</a>**
 - **<a href="http://jquerymobile.com/" target="_blank" title="">jQuery Mobile</a>**
