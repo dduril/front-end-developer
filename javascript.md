@@ -127,3 +127,26 @@ Another example.
 
     var total = sub_total + tax_amount;    
     console.info(parseFloat(total.toFixed(2)));
+
+### Arrays
+	// creating arrays and assigning values
+	var squares = new Array(1, 4, 9, 16, 25, 36, 48, 64, 81, 100);
+
+	var fruits = ["apple", "banana", "cherry", "orange", "pear"];
+
+	// additional ways to create and assign values
+	var nums = new Array(3);
+	nums[0] = 1;
+	nums[1] = 2;
+	nums[2] = 3;
+
+	var names = [];
+	names[0] = "John";
+	names[1] = "Mary";
+	names[2] = "Bill";
+
+### for-in loop
+	var squares = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100];
+	for (var i in squares) {
+		console.info(squares[i]);
+	}
