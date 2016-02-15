@@ -1,9 +1,5 @@
 # Front End Developer
 
-The development stack for the Front-End or Full Stack Developer has grown and continues to expand as more layers and tools are added. It's quite an endeavor to keep up with all of this tech, but also makes for exciting and creative solutions, as there are so many ways to build web apps. 
-
-This list comprises on ongoing collection of Front-End development tools and libraries that can be mixed and matched for projects.
-
 ### Package Managers
 
 - **<a href="http://bower.io/" target="_blank" title="Bower">Bower</a>**
@@ -16,7 +12,7 @@ This list comprises on ongoing collection of Front-End development tools and lib
 - **<a href="http://gruntjs.com/" target="_blank" title="Grunt">Grunt.js</a>**
 - **<a href="http://gulpjs.com/" target="_blank" title="Gulp">Gulp.js</a>** 
 
-### JavaScript Frameworks/Platforms
+### JavaScript Platforms/Frameworks
 
 - **<a href="https://angularjs.org/" target="_blank" title="AngularJS">AngularJS</a>**
 - **<a href="http://backbonejs.org/" target="_blank" title="Backbone">Backbone</a>**
