@@ -145,6 +145,24 @@ Another example.
 	names[1] = "Mary";
 	names[2] = "Bill";
 
+	// enumerating the contents of an array
+	var squares = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100];
+	for (var i = 0; i < squares.length; i++) {
+		console.log("Index " + i + ": " + squares[i]);
+	}
+
+### Exception handling
+	try {
+		var myArray;
+		for (var i = 0; i < myArray.length; i++) {
+			console.log("Index " + i + ": " + myArray[i]);
+		}
+	} catch (e) {
+		console.log("Error: " + e);
+	} finally {
+		console.log("Code block executed.");
+	}
+
 ### for-in loop
 	var squares = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100];
 	for (var i in squares) {
@@ -191,5 +209,22 @@ Another example.
 		}
 	
 		emp.printLabel();
+	</script>
+
+### Enumerating the Object's properties
+	<script type="text/javascript">
+		var obj = {
+			name: "apple",
+			color: "red",
+			type: "delicious",
+			printLabel: function() {
+				console.log("Name: " + obj.name + ".");
+				console.log("Color: " + obj.color + ".");
+			}
+		}
+	
+		for (var prop in obj) {
+			console.log("Name: " + prop + " Value: " + obj[prop]);
+		}
 	</script>
 	
