@@ -4,7 +4,6 @@
 
 - **<a href="https://nodejs.org/en/" target=_blank">Node.js</a>**
 - **<a href="https://www.npmjs.com/" target=_blank">npm</a>**
-- **<a href="https://www.npmjs.com/#explicit" target=_blank">npm - most popular</a>**
 - **<a href="http://bower.io/" target=_blank">Bower</a>**
 
 
