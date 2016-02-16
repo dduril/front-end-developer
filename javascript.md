@@ -168,4 +168,28 @@ Another example.
 			</ul>
 		</div>
 	</div>
+
+### Creating objects
+	<script>
+		var emp = new Object();
+		emp.name = "John Smith";
+		emp.title = "Programming";
+	
+		console.log("Name: " + emp.name + ".");
+		console.log("Title: " + emp.title + ".");	
+	</script>
+
+### Object literal and function
+	<script type="text/javascript">
+		var emp = {
+			name: "John Smith",
+			title: "Programmer",
+			printLabel: function() {
+				console.log("Name: " + emp.name + ".");
+				console.log("Title: " + emp.title + ".");
+			}
+		}
+	
+		emp.printLabel();
+	</script>
 	
