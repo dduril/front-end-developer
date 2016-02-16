@@ -28,3 +28,11 @@
 
 	// descendents
 	$("#container p")
+
+### jQuery methods - val(), text(), focus()
+
+	var first_name = $("#first_name").val();
+
+	$(#last_name").text("Smith");
+
+	$("#email_address").focus();
