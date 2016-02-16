@@ -14,3 +14,17 @@
 			$("#accordion").accordion();
 		});
 	</script
+
+### jQuery selectors
+
+	// by element type
+	$("a")
+
+	// by id
+	$("#container")
+
+	// by class
+	$(".article")
+
+	// descendents
+	$("#container p")
