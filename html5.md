@@ -32,10 +32,10 @@ The following document shows a simple progression for an HTML5 web page.
 	<!DOCTYPE html>
 	<html>
 		<head>	
+			<title>Hello World!</title>
 			<meta charset="UTF-8">
 			<meta name="author" content="Doug Duril" />
-			<meta name="description" content="Template Example" />
-			<title>Hello World!</title>
+			<meta name="description" content="Template Example" />	
 		</head>
 		<body>
 		</body>
@@ -45,10 +45,10 @@ The following document shows a simple progression for an HTML5 web page.
 	<!DOCTYPE html>
 	<html>
 		<head>	
+			<title>HTML5</title>
 			<meta charset="UTF-8">
 			<meta name="author" content="Doug Duril" />
 			<meta name="description" content="Template Example" />
-			<title>HTML5</title>
 		</head>
 		<body>
 			<p>Getting Started with HTML5</p>
@@ -64,10 +64,10 @@ The following document shows a simple progression for an HTML5 web page.
 	<!DOCTYPE html>
 	<html>
 		<head>	
+			<title>HTML5</title>
 			<meta charset="UTF-8">
 			<meta name="author" content="Doug Duril" />
-			<meta name="description" content="Template Example" />
-			<title>HTML5</title>
+			<meta name="description" content="Template Example" />		
 			<style type="text/css">
 				body {
 					color: #000;
@@ -87,3 +87,22 @@ The following document shows a simple progression for an HTML5 web page.
 		</body>
 	</html>
 
+### link Element
+	<!DOCTYPE html>
+	<html>
+		<head>	
+			<title>HTML5</title>
+			<meta charset="UTF-8">
+			<meta name="author" content="Doug Duril" />
+			<meta name="description" content="Template Example" />		
+			<link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
+		</head>
+		<body>
+			<p>Getting Started with HTML5</p>
+			<ul>
+				<li><a href="http://www.html5rocks.com/en/">HTML5 Rocks</a></li>
+				<li><a href="https://developer.mozilla.org/en-US/">MDN - HTML5</a></li>	
+				<li><a href="https://www.w3.org/TR/html5/">W3C - HTML5</a></li>
+			</ul>
+		</body>
+	</html>
