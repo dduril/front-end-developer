@@ -17,6 +17,7 @@
 - **<a href="https://angularjs.org/" target="_blank" title="AngularJS">AngularJS</a>**
 - **<a href="http://backbonejs.org/" target="_blank" title="Backbone">Backbone</a>**
 - **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>**
+- **<a href="http://ionicframework.com/" target="_blank">Ionic</a>**
 - **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>**
 - **<a href="https://www.meteor.com/" target="_blank" title="Meteor">Meteor</a>**
 - **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**

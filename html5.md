@@ -69,9 +69,12 @@ The following document shows a simple progression for an HTML5 web page.
 			<meta name="description" content="Template Example" />
 			<title>HTML5</title>
 			<style type="text/css">
-				color: #fff;
-				background-color: #ddd;
-				padding: 0.5em;
+				body {
+					color: #000;
+					background-color: #fff;
+					width: 80%;
+					margin: 0 auto;
+				}
 			</style>
 		</head>
 		<body>
