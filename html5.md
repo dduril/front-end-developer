@@ -34,7 +34,7 @@ The following document shows a simple progression for an HTML5 web page.
 		<head>	
 			<title>Hello World!</title>
 			<meta charset="UTF-8">
-			<meta name="author" content="Doug Duril" />
+			<meta name="author" content="First Last" />
 			<meta name="description" content="Template Example" />	
 		</head>
 		<body>
@@ -47,7 +47,7 @@ The following document shows a simple progression for an HTML5 web page.
 		<head>	
 			<title>HTML5</title>
 			<meta charset="UTF-8">
-			<meta name="author" content="Doug Duril" />
+			<meta name="author" content="First Last" />
 			<meta name="description" content="Template Example" />
 		</head>
 		<body>
@@ -66,7 +66,7 @@ The following document shows a simple progression for an HTML5 web page.
 		<head>	
 			<title>HTML5</title>
 			<meta charset="UTF-8">
-			<meta name="author" content="Doug Duril" />
+			<meta name="author" content="First Last" />
 			<meta name="description" content="Template Example" />		
 			<style type="text/css">
 				body {
@@ -93,7 +93,7 @@ The following document shows a simple progression for an HTML5 web page.
 		<head>	
 			<title>HTML5</title>
 			<meta charset="UTF-8">
-			<meta name="author" content="Doug Duril" />
+			<meta name="author" content="First Last" />
 			<meta name="description" content="Template Example" />		
 			<link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
 		</head>
@@ -113,7 +113,7 @@ The following document shows a simple progression for an HTML5 web page.
 		<head>	
 			<title>HTML5</title>
 			<meta charset="UTF-8">
-			<meta name="author" content="Doug Duril" />
+			<meta name="author" content="First Last" />
 			<meta name="description" content="Template Example" />		
 			<link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
 			<script type="text/javascript">
@@ -136,7 +136,7 @@ The following document shows a simple progression for an HTML5 web page.
 		<head>	
 			<title>HTML5</title>
 			<meta charset="UTF-8">
-			<meta name="author" content="Doug Duril" />
+			<meta name="author" content="First Last" />
 			<meta name="description" content="Template Example" />		
 			<link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
 			<script src="assets/js/app.js"></script>
@@ -157,7 +157,7 @@ The following document shows a simple progression for an HTML5 web page.
 		<head>	
 			<title>HTML5</title>
 			<meta charset="UTF-8">
-			<meta name="author" content="Doug Duril" />
+			<meta name="author" content="First Last" />
 			<meta name="description" content="Template Example" />		
 			<link rel="stylesheet" type="text/css" href="assets/css/custom.css" />
 			<script src="assets/js/app.js"></script>
