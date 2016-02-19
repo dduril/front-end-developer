@@ -4,6 +4,9 @@ This list serves as a collection of some of the technologies and tools required 
 
 Being a front end, full stack, web developer has and continues to evolve and provide a myriad ways to build dynamic, responsive and cutting-edge UI/UX.
 
+### Environment/Platform
+- **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
+
 ### Package Managers
 
 - **<a href="http://bower.io/" target="_blank" title="Bower">Bower</a>**
@@ -16,23 +19,26 @@ Being a front end, full stack, web developer has and continues to evolve and pro
 - **<a href="http://gruntjs.com/" target="_blank" title="Grunt">Grunt.js</a>**
 - **<a href="http://gulpjs.com/" target="_blank" title="Gulp">Gulp.js</a>** 
 
-### JavaScript Platforms/Frameworks
+### JavaScript Frameworks/Libraries
 
-- **<a href="https://angularjs.org/" target="_blank" title="AngularJS">AngularJS</a>**
+- **<a href="https://angularjs.org/" target="_blank" title="Angular">Angular</a>**
+- **<a href="http://aurelia.io/" target="_blank" title="Aurelia">Aurelia</a>**
 - **<a href="http://backbonejs.org/" target="_blank" title="Backbone">Backbone</a>**
 - **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>**
 - **<a href="http://ionicframework.com/" target="_blank">Ionic</a>**
 - **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>**
 - **<a href="https://www.meteor.com/" target="_blank" title="Meteor">Meteor</a>**
-- **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
 - **<a href="https://www.polymer-project.org/1.0/" target="_blank" title="Polymer">Polymer</a>**
-- **<a href="http://facebook.github.io/react/" target="_blank" title="React">React</a>**
+- **<a href="http://getuikit.com/" target="_blank" title="React">React</a>**
 
 ### Front-end CSS Frameworks
 
 - **<a href="http://getbootstrap.com/" target="_blank" title="Bootstrap">Bootstrap</a>**
-- **<a href="http://foundation.zurb.com/" target="_blank" title="Foundation">Foundation by Zurb</a>**
+- **<a href="http://foundation.zurb.com/" target="_blank" title="Foundation">Foundation</a>**
+- **<a href="http://purecss.io/" target="_blank" title="Pure">Pure</a>**
+- **<a href="http://semantic-ui.com/" target="_blank" title="Semantic UI">Semantic UI</a>**
 - **<a href="http://getskeleton.com/" target="_blank" title="Skeleton">Skeleton</a>**
+- **<a href="http://getskeleton.com/" target="_blank" title="uikit">uikit</a>**
     
 ### Front-end Libraries
 
@@ -50,6 +56,10 @@ Being a front end, full stack, web developer has and continues to evolve and pro
 - **<a href="http://sass-lang.com/" target="_blank" title="Sass">Sass</a>**
 - **<a href="https://learnboost.github.io/stylus/" target="_blank" title="Stylus">Stylus</a>**
 
+### Template Systems
+- **<a href="http://handlebarsjs.com/" target="_blank" title="Handlebars">Handlebars</a>**
+- **<a href="https://mustache.github.io/" target="_blank" title="Mustache">Mustache</a>**
+- 
 ### Module Loaders
 - **<a href="http://browserify.org/" target="_blank" title="Browserify">Browserify</a>**
 - **<a href="http://requirejs.org/" target="_blank" title="RequireJS">RequireJS</a>**
@@ -68,7 +78,6 @@ Being a front end, full stack, web developer has and continues to evolve and pro
 - **<a href="http://www.sublimetext.com/" target="_blank" title="Sublime">Sublime Text</a>**
 - **<a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">Visual Studio Code</a>**
 - **<a href="https://www.jetbrains.com/webstorm/" target="_blank" title="WebStorm">WebStorm</a>**
-
 
 ### Testing Frameworks
 
