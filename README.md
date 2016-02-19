@@ -21,15 +21,15 @@ Being a front end, full stack, web developer has and continues to evolve and pro
 
 ### JavaScript Frameworks/Libraries
 
-- **<a href="https://angularjs.org/" target="_blank" title="Angular">Angular</a>**
-- **<a href="http://aurelia.io/" target="_blank" title="Aurelia">Aurelia</a>**
-- **<a href="http://backbonejs.org/" target="_blank" title="Backbone">Backbone</a>**
-- **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>**
-- **<a href="http://ionicframework.com/" target="_blank">Ionic</a>**
-- **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>**
-- **<a href="https://www.meteor.com/" target="_blank" title="Meteor">Meteor</a>**
-- **<a href="https://www.polymer-project.org/1.0/" target="_blank" title="Polymer">Polymer</a>**
-- **<a href="http://getuikit.com/" target="_blank" title="React">React</a>**
+- **<a href="https://angularjs.org/" target="_blank" title="AngularJS">AngularJS</a>** (open-source web application framework)
+- **<a href="http://aurelia.io/" target="_blank" title="Aurelia">Aurelia</a>** (JavaScript framework)
+- **<a href="http://backbonejs.org/" target="_blank" title="Backbone.js">Backbone.js</a>** (JavaScript framework)
+- **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>** (open-source JavaScript web framework)
+- **<a href="http://ionicframework.com/" target="_blank">Ionic</a>** (mobile app framework)
+- **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>** (web framework)
+- **<a href="https://www.meteor.com/" target="_blank" title="Meteor">Meteor</a>** (web framework)
+- **<a href="https://www.polymer-project.org/1.0/" target="_blank" title="Polymer">Polymer</a>** (library)
+- **<a href="http://getuikit.com/" target="_blank" title="React">React</a>** (JavaScript library)
 
 ### Front-end CSS Frameworks
 
