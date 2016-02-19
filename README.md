@@ -1,5 +1,9 @@
 # Front End Developer
 
+This list serves as a collection of some of the technologies and tools required for the modern day web developer. While not conclusive, most of the major components of the web development stack is document here: package managers, task runners, MV* frameworks, CSS preprocessors, JavaScript transpilers, text editors, unit testing libraries and more.
+
+Being a front end, full stack, web developer has and continues to evolve and provide a myriad ways to build dynamic, responsive and cutting-edge UI/UX.
+
 ### Package Managers
 
 - **<a href="http://bower.io/" target="_blank" title="Bower">Bower</a>**
