@@ -1,5 +1,7 @@
 # Front End Developer
 
+I am a Front-End Developer working across many different stacks and ecosystems. Par for the course. The following list and other markdown files within this repository, are meant to keep abreast of the constant movement within this development space. The knowledge and skills required for a role as a Front-End, Full Stack or Web Applications Development continues to grow. Hopefully, this list, while not conclusive, will provide some idea of the breadth and depth of the modern web development stack.
+
 ### Package Managers
 
 - **<a href="http://bower.io/" target="_blank" title="Bower">Bower</a>**
