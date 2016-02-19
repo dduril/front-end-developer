@@ -59,7 +59,7 @@ Being a front end, full stack, web developer has and continues to evolve and pro
 ### Template Systems
 - **<a href="http://handlebarsjs.com/" target="_blank" title="Handlebars">Handlebars</a>**
 - **<a href="https://mustache.github.io/" target="_blank" title="Mustache">Mustache</a>**
-- 
+
 ### Module Loaders
 - **<a href="http://browserify.org/" target="_blank" title="Browserify">Browserify</a>**
 - **<a href="http://requirejs.org/" target="_blank" title="RequireJS">RequireJS</a>**
