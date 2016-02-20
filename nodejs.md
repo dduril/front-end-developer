@@ -151,7 +151,7 @@ Install multiple packages to the dependencies section of the bower.json file.
 You can also create a .bowerrc file and place it at the root of your project folder. This file will then install all Bower libraries into the specified folder:
 
     {
-    "directory": "bower_components",
+    "directory": "app/bower_components",
 	}
 
 
