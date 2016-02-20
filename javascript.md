@@ -240,4 +240,15 @@ Another example.
 			console.log("Name: " + prop + " Value: " + obj[prop]);
 		}
 	</script>
+
+### JSON
+	var employee = {
+		"first_name" : "Bob",
+		"last_name"  : "Wilson",
+		"department" : "Accounting",
+		"job_title"  : "Data Analyst",
+		"hire_date"  : "2015-05-15",
+		"status"     : 1,
+		"updated"    : true
+	};
 	
