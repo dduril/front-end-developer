@@ -20,6 +20,10 @@
 
 ## Basics
 
+### var
+	var x = 10;
+	var msg = "Hello World!";
+
 ### if
 	if (x > y) {
 		console.writeln("x is greater than y");
@@ -145,11 +149,20 @@ Another example.
 	names[1] = "Mary";
 	names[2] = "Bill";
 
-	// enumerating the contents of an array
+	// iterating over the contents of an array
 	var squares = [1, 4, 9, 16, 25, 36, 49, 64, 81, 100];
 	for (var i = 0; i < squares.length; i++) {
 		console.log("Index " + i + ": " + squares[i]);
 	}
+
+	// another method to iterate over the array
+	var nums = new Array(1, 2, 3, 4, 5);
+	var sum = 0;
+	nums.forEach(function(d) {
+		console.log(d);	// display the array elements
+		sum += d;		// add to sum
+	}
+	console.log(sum);	// display the sum
 
 ### Exception handling
 	try {
