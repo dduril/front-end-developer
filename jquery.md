@@ -5,6 +5,16 @@
 
 ## Getting Started
 
+### Include the jQuery library
+
+**By CDN**
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+**By local reference**
+
+	<script src="/assets/libs/jquery/1.12.0/jquery.min.js"></script>
+
 ### Document.ready
 
 	<script type="text/javascript">
@@ -15,17 +25,38 @@
 
 ### jQuery selectors
 
-	// by element type
-	$("a")
-
-	// by id
-	$("#container")
-
-	// by class
-	$(".article")
-
-	// descendents
-	$("#container p")
+	<!-- HTML snippet for example -->
+	.
+	.
+	<div id="container">
+        <p>First paragraph.</p>
+        
+        <div class="frameworks">
+            <div>Angular</div>
+            <div>Backbone</div>
+            <div>Ember</div>
+            <div>React</div>
+        </div>
+        
+        <p>Second paragraph.</p>
+    </div>
+	.
+	.
+	<script type="text/javascript">
+		$(document).ready(function() {
+			var container = $("#container").text();
+			console.log(container);
+	
+			var frameworks = $(".frameworks").text();
+			console.log(frameworks);
+	
+			var p = $("p").text();
+			console.log(p);
+	
+			var p2 = $("#container p:eq(1)").text();
+			console.log(p2);  
+		});
+	</script
 
 ### jQuery methods - val(), text(), focus()
 
@@ -33,11 +64,11 @@
 	$(#last_name").text("Smith");
 	$("#email_address").focus();
 
-### Putting it all together
+### jQuery click example
 	<script type="text/javascript">
 		$(document).ready(function() {
-			$("h1").click(function) {
-				alert("Main header has been clicked.");
-			}
+			$("h2").click(function() {
+            	console.log("h2 clicked.");
+        	});
 		});
 	</script
