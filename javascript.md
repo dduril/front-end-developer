@@ -49,6 +49,21 @@
 		console.writeln("x is equal to y");
 	}
 
+### switch
+	switch(response) {
+		case 1:
+			console.log("red");		
+			break;
+		case 2:
+			console.log("green");
+			break;
+		case 3:
+			console.log("blue");
+			break;
+		default:
+			console.log("invalid selection");
+	}
+
 ### while loop
 	var x = 0;
 	while (x <= 10) {
