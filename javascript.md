@@ -23,6 +23,10 @@
 ### var
 	var x = 10;
 	var msg = "Hello World!";
+	var success = true;
+	var arr = ["red", "green", "blue"];
+	var obj = {"name":"snoopy", "type":"beagal", "occupation":"fighter pilot"};
+	var y = null;
 
 ### if
 	if (x > y) {
