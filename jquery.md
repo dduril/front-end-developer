@@ -2,6 +2,7 @@
 
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
 - **<a href="http://jqueryui.com/" target="_blank">jQuery UI</a>**
+- **<a href="http://jquerymobile.com/" target="_blank">jQuery Mobile</a>**
 
 ## Getting Started
 
