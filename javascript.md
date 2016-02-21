@@ -25,7 +25,7 @@
 	var msg = "Hello World!";
 	var success = true;
 	var arr = ["red", "green", "blue"];
-	var obj = {"name":"snoopy", "type":"beagal", "occupation":"fighter pilot"};
+	var obj = {"name":"Bill", "department":"Technology", "title":"Developer"};
 	var y = null;
 
 ### if
