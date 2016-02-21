@@ -13,6 +13,7 @@
 
 - **<a href="http://www.aptana.com/" target="_blank">Aptana Studio</a>**
 - **<a href="http://brackets.io/" target="_blank">Brackets</a>**
+- **<a href="http://komodoide.com/" target="_blank">Komodo IDE</a>**
 - **<a href="http://notepad-plus-plus.org/" target="_blank">Notepad++</a>**
 - **<a href="http://www.sublimetext.com/" target="_blank">Sublime Text</a>**
 - **<a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>**
