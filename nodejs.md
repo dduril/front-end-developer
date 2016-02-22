@@ -16,9 +16,22 @@ Check the version of node:
 
 	C:\>node -v
 
+Simple node program - hello_world.js:
+
+	var http = require('http');
+
+	http.createServer(function (request, response) {
+		response.writeHead(200, {'Content-Type': 'text/html'});
+		response.end('<html><body><h2>Hello World!</h2></body></html');
+	}).listen(3000, 'localhost');
+
+	console.log('Server running at http://localhost:3000/');
+
 Run node program:
 
 	C:\>node hello_world.js
+
+Launch Chrome and type: localhost:3000
 
 ## npm
 
