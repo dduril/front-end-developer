@@ -6,16 +6,21 @@
 - **<a href="https://www.npmjs.com/" target=_blank">npm</a>**
 - **<a href="http://bower.io/" target=_blank">Bower</a>**
 
+## node.js
 
-## npm
-
-Install Node.js to your system. (Windows)
+Install node.js to your system. (Windows)
 
 	C:\users\[name]\AppData\Roaming\npm\node_modules
 
-Check the version of Node:
+Check the version of node:
 
 	C:\>node -v
+
+Run node program:
+
+	C:\>node hello_world.js
+
+## npm
 
 Node installs with a package manager - npm. 
 Check the version of npm:
