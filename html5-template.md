@@ -1,10 +1,13 @@
 # HTML5 Template
 
+**Some references that might be helpful:**
+
 - **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">HTML5</a>**
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
+- **<a href="https://jqueryui.com/" target="_blank">jQuery UI</a>**
 
-### Using Bootstrap and jQuery
+### HTML5 using Bootstrap and jQuery
 
 	<!DOCTYPE html>
 	<html lang="en">
