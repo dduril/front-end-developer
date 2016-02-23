@@ -117,18 +117,17 @@ Install package.json file:
 
 	C:\>npm install -g bower
 
-
 ### help
+
 	C:\development\demo>bower help
 
-
 ### info
+
 	C:\development\demo>bower info jquery
 
-
 ### init
-	C:\development\demo>bower init
 
+	C:\development\demo>bower init
 
 ### install
 
@@ -149,6 +148,10 @@ Install multiple packages to the dependencies section of the bower.json file.
 ### list
 	
 	C:\development\demo>bower list
+
+### search
+
+	C:\development\demo>bower search jquery
 
 ### update
 	
