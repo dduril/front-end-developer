@@ -25,3 +25,35 @@
 		<h2>Welcome {{name}}</h2>
 	</body>
 	</html>
+
+### Basic Example using Bootstrap
+
+	<!doctype html>
+	<html lang="en" ng-app>
+		<head>
+			<meta charset="utf-8">
+			<title>AngularJS - Example</title>
+	        <link rel="stylesheet" href="dist/css/bootstrap.min.css">
+	        <link rel="stylesheet" href="dist/css/bootstrap-theme.min.css">
+		</head>
+		<body>
+	    
+	    <div class="container">
+	        <div class="row">
+	            <div class="col-md-8">
+	                <h1>AngularJS - Example</h1>
+	                <hr />
+	                <form class="form-inline">
+	                	<div class="form-group">
+	                	<label for="name" style="width: 120px;">First Name: </label>
+	                	<input ng-model="name" id="name" class="form-control" type="text" placeholder="Your Name" size="32">
+	                </form> 
+	                <br /><br />
+	                <h2>Welcome {{name}}</h2>
+	            </div>
+	        </div>
+	    </div>
+	    <script src="dist/js/bootstrap.min.js"></script>
+	    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+		</body>
+	</html>
