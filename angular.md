@@ -15,7 +15,13 @@
 		<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
 	</head>
 	<body>
-		<input type="text" ng-model="name">
+		<h1>AngularJS Example</h1>
+		<hr />
+
+		<label for="name">First Name: </label>
+		<input id="name" type="text" ng-model="name">
+
+		<br /><br />
 		<h2>Welcome {{name}}</h2>
 	</body>
 	</html>
