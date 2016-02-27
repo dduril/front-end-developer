@@ -1,1 +1,5 @@
-# Under Development
+# AngularJS 
+
+### index.html
+
+Basic AngularJS demo using Bootstrap.
