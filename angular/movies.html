@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en" ng-app="myApp">
+<head>
+	<meta charset="utf-8">
+	<title>AngularJS - Movies</title>
+	<link rel="stylesheet" href="dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="dist/css/bootstrap-theme.min.css">
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+	<script src="js/movieControllers.js"></script>
+</head>
+<body>
+
+	<div class="container">
+    
+        <h1>AngularJS - Movies</h1>
+        <hr />
+        
+		<div ng-controller="MyController">
+			<div ng-repeat="item in movies">
+				<h2>{{item.title}}</h2>
+				<p>Released {{item.year + ', ' + item.runtime}} minutes</p>	
+				<a href="{{item.link}}" target="_blank">
+					<img ng-src="images/{{item.image}}.jpg">
+				</a>
+				<hr>
+			</div>
+		</div>
+	</div>	
+	
+</body>
+</html>

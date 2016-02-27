@@ -1,5 +1,4 @@
 # AngularJS 
 
-### index.html
+Introductory demo projects using AngularJS and Bootstrap.
 
-Basic AngularJS demo using Bootstrap.

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en" ng-app="myApp">
+<head>
+	<meta charset="utf-8">
+	<title>AngularJS - Movie Service</title>
+	<link rel="stylesheet" href="dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="dist/css/bootstrap-theme.min.css">
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+	<script src="js/movieControllersService.js"></script>
+</head>
+<body>
+	<div class="container">
+	
+        <h1>AngularJS - Movie Service</h1>
+        <hr />
+                
+		<div class="search">
+			<h2>Movie Directory</h1>
+			<label>search: </label>
+			<input ng-model="query" placeholder="Search for movies" autofocus>
+			
+			&nbsp;by: <select ng-model="movieOrder">
+				<option value="title" selected>Title</option>
+				<option value="year">Year</option>
+				<option value="runtime">Runtime</option>
+			</select>
+			
+			&nbsp;
+			<label><input type="radio" ng-model="direction" name="direction" checked> ascending</label>
+			<label><input type="radio" ng-model="direction" name="direction" value="reverse"> descending</label>
+			<br /><br />
+		</div>
+	
+		<div ng-controller="MyController">
+			<div ng-repeat="item in movies | filter: query | orderBy: movieOrder:direction">
+				<h2>{{item.title}}</h2>
+				<p>Released {{item.year + ', ' + item.runtime}} minutes</p>	
+				<a href="{{item.link}}" target="_blank">
+					<img ng-src="images/{{item.image}}.jpg">
+				</a>
+				<hr>
+			</div>
+		</div>
+	</div>	
+	
+</body>
+</html>

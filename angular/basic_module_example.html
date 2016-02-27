@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en" ng-app="myApp">
+<head>
+	<meta charset="utf-8">
+	<title>AngularJS - Module Example</title>
+	<link rel="stylesheet" href="dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="dist/css/bootstrap-theme.min.css">
+	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+	<script src="js/controllers.js"></script>
+</head>
+<body>
+
+	<div class="container">
+    
+        <h1>AngularJS - Module Example</h1>
+        <hr />
+		<div ng-controller="MyController">
+			<h2>{{employee.name}}</h2>
+			<p>{{employee.title + ', ' + employee.department}}</p>
+		</div>
+	</div>	
+	
+</body>
+</html>
