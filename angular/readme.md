@@ -23,6 +23,7 @@ Dependency guides.
               |-- bootstrap-theme.min.css
           +-- js
               |-- bootstrap.min.js
+      +-- images
       +-- js
           |-- movieControllersService.js
 
@@ -37,6 +38,7 @@ Dependency guides.
               |-- bootstrap-theme.min.css
           +-- js
               |-- bootstrap.min.js
+      +-- images
       +-- js
           |-- movieControllers.js
 
