@@ -42,3 +42,25 @@ Dependency guides.
       +-- js
           |-- movieControllers.js
 
+**basic\_module\_example.html**
+
+	basic_module_example.html
+	  +-- dist
+          +-- css
+              |-- bootstrap.min.css
+              |-- bootstrap-theme.min.css
+          +-- js
+              |-- bootstrap.min.js
+      +-- js
+          |-- controllers.js
+
+**basic\_mvc\_example.html**
+
+	basic_mvc_example.html
+	  +-- dist
+          +-- css
+              |-- bootstrap.min.css
+              |-- bootstrap-theme.min.css
+          +-- js
+              |-- bootstrap.min.js
+
