@@ -35,6 +35,8 @@ Launch Chrome and type: localhost:3000
 
 ## npm
 
+Some very popular npm packages: <code>angular</code>, <code>bootstrap</code>, <code>bower</code>, <code>express</code>, <code>jquery</code>, <code>karma</code>, <code>mongodb</code>, <code>mongoose</code>, <code>yo</code>
+
 Node installs with a package manager - npm. 
 Check the version of npm:
 
