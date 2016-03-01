@@ -89,6 +89,7 @@ Being a front end, full stack, or web app developer continues to evolve, morph a
 ### Additional Tools
 
 - **<a href="http://emmet.io/" target="_blank" title="Emmet">Emmet</a>** (Text editor plugin to improve web development workflow)
+- **<a href="http://www.json.org/" target="_blank" title="JSON">JSON</a>** (Lightweight data-interchange format)
 - **<a href="https://lodash.com/" target="_blank" title="lodash">lodash</a>** (JavaScript utility library)
 - **<a href="http://daringfireball.net/projects/markdown/" target="_blank" title="Markdown">Markdown</a>** (text to HTML conversion tool)
 - **<a href="https://modernizr.com/" target="_blank" title="Modernizr">Modernizr</a>** (JavaScript toolkit)
