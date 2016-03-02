@@ -35,7 +35,20 @@ Launch Chrome and type: localhost:3000
 
 ## npm
 
-Some very popular npm packages: <code>angular</code>, <code>bootstrap</code>, <code>bower</code>, <code>express</code>, <code>jquery</code>, <code>karma</code>, <code>mongodb</code>, <code>mongoose</code>, <code>yo</code>
+Some popular npm packages: 
+
+- angular
+- bootstrap
+- bower
+- express
+- grunt
+- gulp
+- jquery
+- karma
+- less
+- mongodb
+- mongoose
+- yo
 
 Node installs with a package manager - npm. 
 Check the version of npm:
@@ -55,6 +68,28 @@ And check their version numbers:
 Create a package.json file for your project:
 
 	C:\dev\node\demo>npm init
+
+Sample package.json file:
+
+	{
+		"name": "demo-angular",
+		"version": "1.0.0",
+		"description": "Demo application for Angular",
+		"main": "index.html",
+		"scripts": {
+			"test": "echo \"Error: no test specified\" && exit 1"
+		},
+		"author": "",
+		"license": "ISC",
+		"dependencies": {
+			"bootstrap": "^3.3.5",
+			"jquery": "^2.1.4",
+			"angular": "^1.5.0-beta.0",
+			"angular-resource": "^1.4.7",
+			"angular-ui-bootstrap": "^0.14.3",
+			"toastr": "^2.1.2"
+		}
+	}
 
 Install Bootstrap and jQuery using the <code>--save</code> option. 
 
