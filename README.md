@@ -2,7 +2,9 @@
 
 This list serves as a collection of some of the technologies and tools required for the modern day web developer. While not conclusive, most of the major components of the web development stack are documented here: package managers, task runners, MV* frameworks, CSS preprocessors, JavaScript transpilers, text editors and plugins, unit testing, utility libraries and more.
 
-Being a front end, full stack, or web app developer continues to evolve, morph and provides a myriad of ways to build dynamic, responsive and cutting-edge UI/UX.
+Being a front end or full stack developer continues to evolve on a daily basis and provides many different options for putting together your stack. A rapidly emerging stack is the end-to-end JavaScript stack of **MEAN** (MongoDB + Express + AngularJS + NodeJS). But, you're really free to pick and choose your own combination and build the stack that works best for you.
+
+
 
 ### Environment/Platform
 - **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
@@ -25,7 +27,9 @@ Being a front end, full stack, or web app developer continues to evolve, morph a
 - **<a href="http://aurelia.io/" target="_blank" title="Aurelia">Aurelia</a>** (JavaScript framework)
 - **<a href="http://backbonejs.org/" target="_blank" title="Backbone.js">Backbone.js</a>** (JavaScript framework)
 - **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>** (open-source JavaScript web framework)
-- **<a href="http://ionicframework.com/" target="_blank">Ionic</a>** (mobile app framework)
+- **<a href="https://www.sencha.com/products/extjs/#overview" target="_blank" title="ExtJS">ExtJS</a>** (JavaScript framework) 
+- **<a href="http://ionicframework.com/" target="_blank" title="Ionic">Ionic</a>** (mobile app framework)
+- **<a href="http://www.telerik.com/kendo-ui" target="_blank" title="Kendo UI">Kendo UI</a>** (framework for modern HTML UI)
 - **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>** (web framework)
 - **<a href="https://www.meteor.com/" target="_blank" title="Meteor">Meteor</a>** (web framework)
 - **<a href="https://www.polymer-project.org/1.0/" target="_blank" title="Polymer">Polymer</a>** (library)
