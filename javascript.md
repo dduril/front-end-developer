@@ -271,3 +271,9 @@ Another example.
 		"updated"    : true
 	};
 	
+### Immediately Invoked Function Expression (Self-Executing Anonymous Function)
+	(function () {
+		
+		// todo...
+
+	})();
