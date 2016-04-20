@@ -61,6 +61,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="https://learnboost.github.io/stylus/" target="_blank" title="Stylus">Stylus</a>**
 
 ### Template Systems
+- **<a href="http://www.dustjs.com/" target="_blank" title="Dust">Dust</a>**
 - **<a href="http://handlebarsjs.com/" target="_blank" title="Handlebars">Handlebars</a>**
 - **<a href="https://mustache.github.io/" target="_blank" title="Mustache">Mustache</a>**
 

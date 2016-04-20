@@ -37,18 +37,23 @@ Launch Chrome and type: localhost:3000
 
 Some popular npm packages: 
 
+- adaro
 - angular
 - bootstrap
-- bower
-- express
+- <a href="http://bower.io/" target="_blank">bower</a>
+- <a href="http://expressjs.com/" target="_blank">express</a>
 - grunt
 - gulp
 - jquery
 - karma
+- <a href="http://krakenjs.com/" target="_blank">kraken</a>
 - less
+- lodash
+- moment
 - mongodb
 - mongoose
-- yo
+- morgan
+- <a href="http://yeoman.io/" target="_blank">yo</a>
 
 Node installs with a package manager - npm. 
 Check the version of npm:
