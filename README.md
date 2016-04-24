@@ -1,6 +1,6 @@
 # Front End Developer
 
-This list serves as a collection of some of the technologies and tools required for the modern day web developer. While not conclusive, most of the major components of the web development stack are documented here: package managers, task runners, MV* frameworks, CSS preprocessors, JavaScript transpilers, text editors and plugins, unit testing, utility libraries and more.
+This list serves as a collection of some of the technologies and tools required for the modern day we developer. While not conclusive, most of the major components of the web development stack are documented here: package managers, task runners, MV* frameworks, CSS preprocessors, JavaScript transpilers, text editors and plugins, unit testing, utility libraries and more.
 
 Being a front end or full stack developer continues to evolve on a daily basis and provides many different options for putting together your stack. A rapidly emerging stack is the end-to-end JavaScript stack of **MEAN** (MongoDB + Express + AngularJS + NodeJS). But, you're really free to pick and choose your own combination and build the stack that works best for you.
 
@@ -90,6 +90,11 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="http://karma-runner.github.io/0.13/index.html" target="_blank" title="Karma">Karma</a>**
 - **<a href="https://mochajs.org/" target="_blank" title="Mocha">Mocha</a>**
 - **<a href="https://qunitjs.com/" target="_blank" title="QUnit">QUnit</a>**
+
+### Hybrid Mobile Frameworks
+
+- **<a href="https://cordova.apache.org/" target="_blank" title="Apache Cordova">Apache Cordova</a>**
+- **<a href="http://ionicframework.com/" target="_blank" title="Ionic">Ionic</a>**
 
 ### Additional Tools
 
