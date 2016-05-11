@@ -95,6 +95,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 
 - **<a href="https://cordova.apache.org/" target="_blank" title="Apache Cordova">Apache Cordova</a>**
 - **<a href="http://ionicframework.com/" target="_blank" title="Ionic">Ionic</a>**
+- **<a href="http://ngcordova.com/" target="_blank" title="ngCordova">ngCordova</a>**
 - **<a href="http://phonegap.com/" target="_blank" title="PhoneGap">PhoneGap (Adobe)</a>**
 - **<a href="https://facebook.github.io/react-native/" target="_blank" title="React Native">React Native</a>**
 

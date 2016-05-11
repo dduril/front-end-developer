@@ -41,7 +41,10 @@ Some popular npm packages:
 - angular
 - bootstrap
 - <a href="http://bower.io/" target="_blank">bower</a>
+- confit
+- enrouten
 - <a href="http://expressjs.com/" target="_blank">express</a>
+- <a href="http://expressjs.com/en/starter/generator.html" target="_blank">express-generator</a>
 - grunt
 - gulp
 - jquery
@@ -49,9 +52,10 @@ Some popular npm packages:
 - <a href="http://krakenjs.com/" target="_blank">kraken</a>
 - less
 - lodash
+- meddleware
 - moment
 - mongodb
-- mongoose
+- <a href="http://mongoosejs.com/" target="_blank">mongoose</a>
 - morgan
 - <a href="http://yeoman.io/" target="_blank">yo</a>
 
