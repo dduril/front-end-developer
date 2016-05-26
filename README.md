@@ -4,8 +4,6 @@ This list serves as a collection of some of the technologies and tools required 
 
 Being a front end or full stack developer continues to evolve on a daily basis and provides many different options for putting together your stack. A rapidly emerging stack is the end-to-end JavaScript stack of **MEAN** (MongoDB + Express + AngularJS + NodeJS). But, you're really free to pick and choose your own combination and build the stack that works best for you.
 
-
-
 ### Environment/Platform
 - **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
 
@@ -98,6 +96,11 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="http://ngcordova.com/" target="_blank" title="ngCordova">ngCordova</a>**
 - **<a href="http://phonegap.com/" target="_blank" title="PhoneGap">PhoneGap (Adobe)</a>**
 - **<a href="https://facebook.github.io/react-native/" target="_blank" title="React Native">React Native</a>**
+
+### ECMAScript
+
+- **<a href="http://es6-features.org/" target="_blank">ECMAScript 6</a>** (ES6)
+- **<a href="https://en.wikipedia.org/wiki/ECMAScript" target="_blank">Wikipedia Page</a>** (Overall background and progress) 
 
 ### Additional Tools
 
