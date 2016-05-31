@@ -7,6 +7,12 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 ### Environment/Platform
 - **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
 
+### Basics
+
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>**
+
 ### Package Managers
 
 - **<a href="http://bower.io/" target="_blank" title="Bower">Bower</a>**
