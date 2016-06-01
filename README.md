@@ -5,7 +5,8 @@ This list serves as a collection of some of the technologies and tools required 
 Being a front end or full stack developer continues to evolve on a daily basis and provides many different options for putting together your stack. A rapidly emerging stack is the end-to-end JavaScript stack of **MEAN** (MongoDB + Express + AngularJS + NodeJS). But, you're really free to pick and choose your own combination and build the stack that works best for you.
 
 ### Environment/Platform
-- **<a href="https://nodejs.org/" target="_blank" title="Node">Node.js</a>**
+
+- **<a href="https://nodejs.org/" target="_blank">Node.js</a>**
 
 ### Basics
 
