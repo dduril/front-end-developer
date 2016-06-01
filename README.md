@@ -52,6 +52,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 ### Front-end Libraries
 
 - **<a href="https://d3js.org/" target="_blank" title="D3.js">D3.js</a>**
+- **<a href="https://developers.google.com/" target="_blank">Google Developers</a>**
 - **<a href="https://developers.google.com/chart/" target="_blank" title="Google Charts">Google Charts</a>**
 - **<a href="https://developers.google.com/maps/" target="_blank" title="Google Maps API">Google Maps API</a>**
 - **<a href="http://www.highcharts.com/" target="_blank" title="HighCharts">HighCharts</a>**
