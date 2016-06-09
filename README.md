@@ -14,7 +14,10 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">HTML5</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank">CSS3</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla" target="_blank">ES6</a>** (ECMAScript) See also **<a href="http://es6-features.org/#Constants" target="_blank">ECMAScript 6</a>** and **<a href="https://babeljs.io/" target="_blank">Babel</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>**
+
+### Cutting Edge
 
 ### Package Managers
 
