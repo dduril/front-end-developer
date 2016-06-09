@@ -11,7 +11,9 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 ### Basics
 
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">HTML5</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank">CSS3</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>**
 
 ### Package Managers
