@@ -120,6 +120,8 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="http://lipis.github.io/bootstrap-social/" target="_blank" title="Bootstrap Social">Bootstrap Social</a>**
 - **<a href="http://emmet.io/" target="_blank" title="Emmet">Emmet</a>** (Text editor plugin to improve web development workflow)
 - **<a href="https://fortawesome.github.io/Font-Awesome/" target="_blank" title="Font Awesome">Font Awesome</a>**
+- **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
+- **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
 - **<a href="http://www.json.org/" target="_blank" title="JSON">JSON</a>** (Lightweight data-interchange format)
 - **<a href="https://lodash.com/" target="_blank" title="lodash">lodash</a>** (JavaScript utility library)
 - **<a href="http://daringfireball.net/projects/markdown/" target="_blank" title="Markdown">Markdown</a>** (text to HTML conversion tool)
