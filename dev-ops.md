@@ -1,11 +1,17 @@
 # DevOps
 
+This is a work-in-progress page - I am exploring the DevOps ecosystem. Some of the products and technologies may be listed in more than one area.
+
+As this is a curated list, more items will be added and existing items may be shuffled around as I learn more.
+
 ### Source Code Management (SCM)
 
 - **<a href="https://bitbucket.org/" target="_blank">Atlassian Bitbucket</a>**
 - **<a href="https://git-scm.com/" target="_blank">Git</a>**
 - **<a href="https://github.com/" target="_blank">GitHub</a>**
+- **<a href="" target="_blank">Mercurial</a>**
 - **<a href="https://www.perforce.com/" target="_blank">Perforce</a>**
+- **<a href="" target="_blank">Subversion</a>**
 
 ### Database Management
 
@@ -69,6 +75,8 @@
 ### Containerization
 
 - **<a href="https://www.docker.com/" target="_blank">Docker</a>**
+- **<a href="https://elasticbox.com/" target="_blank">ElasticBox</a>**
+- **<a href="" target="_blank">Jelastic</a>**
 - **<a href="" target="_blank">Kubemetes</a>**
 - **<a href="" target="_blank">Mesos</a>**
 - **<a href="" target="_blank">Nomad</a>**
