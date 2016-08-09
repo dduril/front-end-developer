@@ -2,8 +2,17 @@
 
 ### Build and Deploy Automation
 
+- **<a href="http://capistranorb.com/" target="_blank">Capistrano</a>**
 - **<a href="https://jenkins.io/" target="_blank">Jenkins</a>**
 - **<a href="https://travis-ci.org/" target="_blank">Travis</a>**
+
+### Cloud Platforms
+
+- **<a href="" target="_blank">Amazon Web Services**</a>
+- **<a href="" target="_blank">Google Cloud Platform</a>**
+- **<a href="" target="_blank">Heroku</a>**
+- **<a href="" target="_blank">OpenStack</a>**
+- **<a href="" target="_blank">Windows Azure</a>**
 
 ### Collaboration Platforms
 
@@ -16,7 +25,7 @@
 ### Configuration Management
 
 - **<a href="https://www.ansible.com/" target="_blank">Ansible</a>** (Python)
-- **<a href="http://capistranorb.com/" target="_blank">Capistrano</a>** (Ruby)
+
 - **<a href="https://www.chef.io/chef/" target="_blank">Chef</a>** (Ruby)
 - **<a href="https://puppet.com/" target="_blank">Puppet</a>** (Ruby)
 - **<a href="https://saltstack.com/" target="_blank">Saltstack</a>** (Python)
