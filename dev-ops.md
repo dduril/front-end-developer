@@ -5,10 +5,10 @@
 - **<a href="https://jenkins.io/" target="_blank">Jenkins</a>**
 - **<a href="https://travis-ci.org/" target="_blank">Travis</a>**
 
-### Collaboration Platform
+### Collaboration Platforms
 
 - **<a href="https://www.atlassian.com/software/jira" target="_blank">Atlassian Jira</a>**
-- **<a href=https://www.rallydev.com/"" target="_blank">Rally</a>**
+- **<a href="https://www.rallydev.com/" target="_blank">Rally</a>**
 - **<a href="https://slack.com/" target="_blank">Slack</a>**
 - **<a href="https://trello.com/" target="_blank">Trello</a>**
 - **<a href="https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx" target="_blank">Visual Studio Team Foundation Server</a>**
