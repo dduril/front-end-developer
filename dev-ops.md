@@ -27,7 +27,6 @@
 ### Configuration Management
 
 - **<a href="https://www.ansible.com/" target="_blank">Ansible</a>** (Python)
-
 - **<a href="https://www.chef.io/chef/" target="_blank">Chef</a>** (Ruby)
 - **<a href="https://puppet.com/" target="_blank">Puppet</a>** (Ruby)
 - **<a href="https://saltstack.com/" target="_blank">Saltstack</a>** (Python)
