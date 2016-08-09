@@ -8,11 +8,13 @@
 
 ### Cloud Platforms
 
-- **<a href="" target="_blank">Amazon Web Services**</a>
-- **<a href="" target="_blank">Google Cloud Platform</a>**
-- **<a href="" target="_blank">Heroku</a>**
-- **<a href="" target="_blank">OpenStack</a>**
-- **<a href="" target="_blank">Windows Azure</a>**
+- **<a href="https://aws.amazon.com/" target="_blank">Amazon Web Services**</a>
+- **<a href="https://cloud.google.com/" target="_blank">Google Cloud Platform</a>**
+- **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
+- **<a href="https://jelastic.com/" target="_blank">Jelastic</a>**
+- **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
+- **<a href="https://www.openstack.org/" target="_blank">OpenStack</a>**
+- **<a href="https://azure.microsoft.com/en-us/?b=16.24" target="_blank">Windows Azure</a>**
 
 ### Collaboration Platforms
 
