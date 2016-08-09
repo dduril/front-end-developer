@@ -7,11 +7,11 @@
 
 ### Collaboration Platform
 
-- **<a href="" target="_blank">Atlassian Jira</a>**
-- **<a href="" target="_blank">Rally</a>**
-- **<a href="" target="_blank">Slack</a>**
-- **<a href="" target="_blank">Trello</a>**
-- **<a href="" target="_blank">Visual Studio Team Foundation Server</a>**
+- **<a href="https://www.atlassian.com/software/jira" target="_blank">Atlassian Jira</a>**
+- **<a href=https://www.rallydev.com/"" target="_blank">Rally</a>**
+- **<a href="https://slack.com/" target="_blank">Slack</a>**
+- **<a href="https://trello.com/" target="_blank">Trello</a>**
+- **<a href="https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx" target="_blank">Visual Studio Team Foundation Server</a>**
 
 ### Configuration Management
 
@@ -27,10 +27,10 @@
 
 ### Source Code
 
-- **<a href="" target="_blank">Atlassian Bitbucket</a>**
-- **<a href="" target="_blank">Git</a>**
-- **<a href="" target="_blank">GitHub</a>**
-- **<a href="" target="_blank">Perforce</a>**
+- **<a href="https://bitbucket.org/" target="_blank">Atlassian Bitbucket</a>**
+- **<a href="https://git-scm.com/" target="_blank">Git</a>**
+- **<a href="https://github.com/" target="_blank">GitHub</a>**
+- **<a href="https://www.perforce.com/" target="_blank">Perforce</a>**
 
 ### Virtualization
 
