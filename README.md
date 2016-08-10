@@ -125,6 +125,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="https://lodash.com/" target="_blank" title="lodash">lodash</a>** (JavaScript utility library)
 - **<a href="http://daringfireball.net/projects/markdown/" target="_blank" title="Markdown">Markdown</a>** (text to HTML conversion tool)
 - **<a href="https://modernizr.com/" target="_blank" title="Modernizr">Modernizr</a>** (JavaScript toolkit)
+- **<a href="https://necolas.github.io/normalize.css/" target="_blank">Normalize.css</a>** (Makes browsers render all elements consistently and in line with modern standards)
 - **<a href="http://phantomjs.org/" target="_blank">PhantomJS</a>** - (Used for automating web page interaction)
 - **<a href="http://underscorejs.org/" target="_blank" title="Underscore">Underscore</a>** (JavaScript utility library)
 
