@@ -9,9 +9,9 @@ As this is a curated list, more items will be added and existing items may be sh
 - **<a href="https://bitbucket.org/" target="_blank">Atlassian Bitbucket</a>**
 - **<a href="https://git-scm.com/" target="_blank">Git</a>**
 - **<a href="https://github.com/" target="_blank">GitHub</a>**
-- **<a href="" target="_blank">Mercurial</a>**
+- **<a href="https://www.mercurial-scm.org/" target="_blank">Mercurial</a>**
 - **<a href="https://www.perforce.com/" target="_blank">Perforce</a>**
-- **<a href="" target="_blank">Subversion</a>**
+- **<a href="https://subversion.apache.org/" target="_blank">Subversion</a>**
 
 ### Database Management
 
@@ -45,18 +45,18 @@ As this is a curated list, more items will be added and existing items may be sh
 
 ### Repo Management
 
-- **<a href="" target="_blank">Docket Hub</a>**
-- **<a href="" target="_blank">npm</a>**
-- **<a href="" target="_blank">Artifactory</a>**
-- **<a href="" target="_blank">Nexus</a>**
+- **<a href="https://hub.docker.com/" target="_blank">Docker Hub</a>**
+- **<a href="https://www.npmjs.com/" target="_blank">npm</a>**
+- **<a href="https://www.jfrog.com/artifactory/" target="_blank">Artifactory</a>**
+- **<a href="http://www.sonatype.com/nexus-repository-sonatype" target="_blank">Nexus</a>**
 
 ### Continuous Integration (CI)
 
 - **<a href="https://www.atlassian.com/software/bamboo" target="_blank">Atlassian Bamboo</a>**
-- **<a href="" target="_blank">Codeship</a>**
-- **<a href="" target="_blank">CruiseControl</a>**
+- **<a href="https://codeship.com/" target="_blank">Codeship</a>**
+- **<a href="http://www.cruisecontrolnet.org/" target="_blank">CruiseControl</a>**
 - **<a href="https://jenkins.io/" target="_blank">Jenkins</a>**
-- **<a href="" target="_blank">Shippable</a>**
+- **<a href="https://app.shippable.com/" target="_blank">Shippable</a>**
 - **<a href="https://www.jetbrains.com/teamcity/" target="_blank">TeamCity</a>**
 - **<a href="https://travis-ci.org/" target="_blank">Travis</a>**
 
@@ -76,11 +76,11 @@ As this is a curated list, more items will be added and existing items may be sh
 
 - **<a href="https://www.docker.com/" target="_blank">Docker</a>**
 - **<a href="https://elasticbox.com/" target="_blank">ElasticBox</a>**
-- **<a href="" target="_blank">Jelastic</a>**
-- **<a href="" target="_blank">Kubemetes</a>**
-- **<a href="" target="_blank">Mesos</a>**
-- **<a href="" target="_blank">Nomad</a>**
-- **<a href="" target="_blank">Swarm</a>**
+- **<a href="https://jelastic.com/" target="_blank">Jelastic</a>**
+- **<a href="http://kubernetes.io/" target="_blank">Kubernetes</a>**
+- **<a href="http://mesos.apache.org/" target="_blank">Mesos</a>**
+- **<a href="https://www.nomadproject.io/" target="_blank">Nomad</a>**
+- **<a href="https://www.docker.com/products/docker-swarm" target="_blank">Swarm</a>**
 
 ### Cloud/Iaas/Paas
 
@@ -89,7 +89,7 @@ As this is a curated list, more items will be added and existing items may be sh
 - **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
 - **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
 - **<a href="https://www.openstack.org/" target="_blank">OpenStack</a>**
-- **<a href="" target="_blank">Rackspace</a>**
+- **<a href="https://www.rackspace.com/en-us" target="_blank">Rackspace</a>**
 - **<a href="https://azure.microsoft.com/en-us/?b=16.24" target="_blank">Windows Azure</a>**
 
 ### Collaboration
