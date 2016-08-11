@@ -4,6 +4,9 @@ This is a work-in-progress page - I am exploring the DevOps ecosystem. Some of t
 
 As this is a curated list, more items will be added and existing items may be shuffled around as I learn more.
 
+An excellent resource can be found here:
+**<a href="https://xebialabs.com/periodic-table-of-devops-tools/">XebiaLabs - Periodic Table of DevOps Tools</a>** 
+
 ### Source Code Management (SCM)
 
 - **<a href="https://bitbucket.org/" target="_blank">Atlassian Bitbucket</a>**
@@ -15,11 +18,11 @@ As this is a curated list, more items will be added and existing items may be sh
 
 ### Database Management
 
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank">DBmaestro</a>**
+- **<a href="" target="_blank">Liquibase</a>**
+- **<a href="" target="_blank">Redgate</a>**
+- **<a href="" target="_blank">Datical</a>**
+- **<a href="" target="_blank">Delphix</a>**
 
 ### Build Tools
 
@@ -34,14 +37,14 @@ As this is a curated list, more items will be added and existing items may be sh
 
 ### Testing
 
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
-- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank">FitNesse</a>**
+- **<a href="" target="_blank">Selenium</a>**
+- **<a href="" target="_blank">Cucumber</a>**
+- **<a href="" target="_blank">Cucumber.js</a>**
+- **<a href="" target="_blank">Qunit</a>**
+- **<a href="" target="_blank">JUnit</a>**
+- **<a href="" target="_blank">Mocha</a>**
+- **<a href="" target="_blank">Jasmine</a>**
 
 ### Repo Management
 
