@@ -30,10 +30,10 @@ An excellent resource can be found here:
 - **<a href="http://ant.apache.org/" target="_blank">Apache Ant</a>**
 - **<a href="https://gradle.org/" target="_blank">Gradle</a>**
 - **<a href="https://www.gnu.org/software/make/" target="_blank">Make</a>**
-- **<a href="" target="_blank">Rake</a>**
-- **<a href="" target="_blank">Grunt.js</a>**
-- **<a href="" target="_blank">Gulp.js</a>**
-- **<a href="" target="_blank">Broccoli.js</a>**
+- **<a href="http://rake.rubyforge.org/" target="_blank">Rake</a>**
+- **<a href="http://gruntjs.com/" target="_blank">Grunt.js</a>**
+- **<a href="http://gulpjs.com/" target="_blank">Gulp.js</a>**
+- **<a href="http://broccolijs.com/" target="_blank">Broccoli.js</a>**
 
 ### Testing
 
