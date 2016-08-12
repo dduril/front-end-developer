@@ -18,11 +18,11 @@ An excellent resource can be found here:
 
 ### Database Management
 
-- **<a href="" target="_blank">DBmaestro</a>**
-- **<a href="" target="_blank">Liquibase</a>**
-- **<a href="" target="_blank">Redgate</a>**
-- **<a href="" target="_blank">Datical</a>**
-- **<a href="" target="_blank">Delphix</a>**
+- **<a href="http://www.dbmaestro.com/" target="_blank">DBmaestro</a>**
+- **<a href="http://www.liquibase.org/" target="_blank">Liquibase</a>**
+- **<a href="http://www.red-gate.com/" target="_blank">Redgate</a>**
+- **<a href="http://www.datical.com/" target="_blank">Datical</a>**
+- **<a href="https://www.delphix.com/" target="_blank">Delphix</a>**
 
 ### Build Tools
 
