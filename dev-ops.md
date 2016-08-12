@@ -26,10 +26,10 @@ An excellent resource can be found here:
 
 ### Build Tools
 
-- **<a href="" target="_blank">Maven</a>**
-- **<a href="" target="_blank">Apache Ant</a>**
-- **<a href="" target="_blank">Gradle</a>**
-- **<a href="" target="_blank">Make</a>**
+- **<a href="https://maven.apache.org/" target="_blank">Maven</a>**
+- **<a href="http://ant.apache.org/" target="_blank">Apache Ant</a>**
+- **<a href="https://gradle.org/" target="_blank">Gradle</a>**
+- **<a href="https://www.gnu.org/software/make/" target="_blank">Make</a>**
 - **<a href="" target="_blank">Rake</a>**
 - **<a href="" target="_blank">Grunt.js</a>**
 - **<a href="" target="_blank">Gulp.js</a>**
