@@ -62,6 +62,7 @@ An excellent resource can be found here:
 - **<a href="https://app.shippable.com/" target="_blank">Shippable</a>**
 - **<a href="https://www.jetbrains.com/teamcity/" target="_blank">TeamCity</a>**
 - **<a href="https://travis-ci.org/" target="_blank">Travis</a>**
+- **<a href="https://en.wikipedia.org/wiki/Continuous_integration" target="_blank">Wikipedia Article</a>**
 
 ### Deployment
 
@@ -70,10 +71,11 @@ An excellent resource can be found here:
 
 ### Configuration Management
 
-- **<a href="https://www.ansible.com/" target="_blank">Ansible</a>** (Python)
-- **<a href="https://www.chef.io/chef/" target="_blank">Chef</a>** (Ruby)
-- **<a href="https://puppet.com/" target="_blank">Puppet</a>** (Ruby)
-- **<a href="https://saltstack.com/" target="_blank">Saltstack</a>** (Python)
+- **<a href="https://www.ansible.com/" target="_blank">Ansible</a>**
+- **<a href="https://www.chef.io/chef/" target="_blank">Chef</a>**
+- **<a href="https://puppet.com/" target="_blank">Puppet</a>**
+- **<a href="https://saltstack.com/" target="_blank">Saltstack</a>**
+- **<a href="https://en.wikipedia.org/wiki/Configuration_management" target="_blank">Wikipedia Article</a>**
 
 ### Containerization
 
@@ -84,6 +86,7 @@ An excellent resource can be found here:
 - **<a href="http://mesos.apache.org/" target="_blank">Mesos</a>**
 - **<a href="https://www.nomadproject.io/" target="_blank">Nomad</a>**
 - **<a href="https://www.docker.com/products/docker-swarm" target="_blank">Swarm</a>**
+- **<a href="https://en.wikipedia.org/wiki/Operating-system-level_virtualization" target="_blank">Wikipedia Article</a>**
 
 ### Cloud/Iaas/Paas
 
