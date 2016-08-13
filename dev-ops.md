@@ -37,14 +37,14 @@ An excellent resource can be found here:
 
 ### Testing
 
-- **<a href="" target="_blank">FitNesse</a>**
-- **<a href="" target="_blank">Selenium</a>**
-- **<a href="" target="_blank">Cucumber</a>**
-- **<a href="" target="_blank">Cucumber.js</a>**
-- **<a href="" target="_blank">Qunit</a>**
-- **<a href="" target="_blank">JUnit</a>**
-- **<a href="" target="_blank">Mocha</a>**
-- **<a href="" target="_blank">Jasmine</a>**
+- **<a href="http://fitnesse.org/" target="_blank">FitNesse</a>**
+- **<a href="http://www.seleniumhq.org/" target="_blank">Selenium</a>**
+- **<a href="https://cucumber.io/" target="_blank">Cucumber</a>**
+- **<a href="https://cucumber.io/docs/reference/javascript" target="_blank">Cucumber.js</a>**
+- **<a href="http://junit.org/junit4/" target="_blank">JUnit</a>**
+- **<a href="https://qunitjs.com/" target="_blank">Qunit</a>**
+- **<a href="https://mochajs.org/" target="_blank">Mocha</a>**
+- **<a href="http://jasmine.github.io/" target="_blank">Jasmine</a>**
 
 ### Repo Management
 
