@@ -75,6 +75,7 @@ An excellent resource can be found here:
 - **<a href="https://www.chef.io/chef/" target="_blank">Chef</a>**
 - **<a href="https://puppet.com/" target="_blank">Puppet</a>**
 - **<a href="https://saltstack.com/" target="_blank">Saltstack</a>**
+
 - **<a href="https://en.wikipedia.org/wiki/Configuration_management" target="_blank">Wikipedia Article</a>**
 
 ### Containerization
@@ -86,6 +87,7 @@ An excellent resource can be found here:
 - **<a href="http://mesos.apache.org/" target="_blank">Mesos</a>**
 - **<a href="https://www.nomadproject.io/" target="_blank">Nomad</a>**
 - **<a href="https://www.docker.com/products/docker-swarm" target="_blank">Swarm</a>**
+
 - **<a href="https://en.wikipedia.org/wiki/Operating-system-level_virtualization" target="_blank">Wikipedia Article</a>**
 
 ### Cloud/Iaas/Paas
@@ -97,6 +99,9 @@ An excellent resource can be found here:
 - **<a href="https://www.openstack.org/" target="_blank">OpenStack</a>**
 - **<a href="https://www.rackspace.com/en-us" target="_blank">Rackspace</a>**
 - **<a href="https://azure.microsoft.com/en-us/?b=16.24" target="_blank">Windows Azure</a>**
+
+
+- **<a href="https://en.wikipedia.org/wiki/Cloud_computing" target="_blank">Wikipedia Article</a>**
 
 ### Collaboration
 
