@@ -7,6 +7,16 @@ As this is a curated list, more items will be added and existing items may be sh
 An excellent resource can be found here:
 **<a href="https://xebialabs.com/periodic-table-of-devops-tools/">XebiaLabs - Periodic Table of DevOps Tools</a>** 
 
+### What is DevOps?
+
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+- **<a href="" target="_blank"></a>**
+
+---
+
 ### Source Code Management (SCM)
 
 - **<a href="https://bitbucket.org/" target="_blank">Atlassian Bitbucket</a>**
