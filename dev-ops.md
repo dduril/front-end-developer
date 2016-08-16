@@ -9,7 +9,13 @@ An excellent resource can be found here:
 
 ### What is DevOps?
 
+- **<a href="https://www.atlassian.com/devops" target="_blank">DevOps with Atlassian</a>**
+- **<a href="https://puppet.com/solutions/devops" target="_blank">DevOps with Puppet</a>**
 - **<a href="https://en.wikipedia.org/wiki/DevOps" target="_blank">DevOps (Wikipedia)</a>**
+- **<a href="https://www.ibm.com/ibm/devops/us/en/" target="_blank">IBM - DevOps</a>**
+- **<a href="https://newrelic.com/devops/what-is-devops" target="_blank">What is DevOps? (New Relic)</a>**
+- **<a href="https://www.rackspace.com/devops" target="_blank">Rackspace - DevOps</a>**
+- **<a href="https://support.rackspace.com/white-paper/building-your-devops-engine-a-guide-to-tearing-down-organizational-silos-to-create-more/" target="_blank">Rackspace - Building Your DevOps Engine</a>**
 
 ---
 
@@ -25,6 +31,7 @@ An excellent resource can be found here:
 ### Database Management
 
 - **<a href="http://www.dbmaestro.com/" target="_blank">DBmaestro</a>**
+- **<a href="https://flywaydb.org/" target="_blank">Flyway</a>**
 - **<a href="http://www.liquibase.org/" target="_blank">Liquibase</a>**
 - **<a href="http://www.red-gate.com/" target="_blank">Redgate</a>**
 - **<a href="http://www.datical.com/" target="_blank">Datical</a>**
@@ -111,11 +118,13 @@ An excellent resource can be found here:
 
 ### Collaboration
 
+- **<a href="https://asana.com/" target="_blank">Asana</a>**
 - **<a href="https://www.atlassian.com/software/jira" target="_blank">Atlassian Jira</a>**
 - **<a href="https://www.rallydev.com/" target="_blank">Rally</a>**
 - **<a href="https://slack.com/" target="_blank">Slack</a>**
 - **<a href="https://trello.com/" target="_blank">Trello</a>**
 - **<a href="https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx" target="_blank">Visual Studio Team Foundation Server</a>**
+- **<a href="https://www.wrike.com/" target="_blank">Wrike</a>**
 
 ---
 
