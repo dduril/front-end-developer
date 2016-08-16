@@ -9,11 +9,7 @@ An excellent resource can be found here:
 
 ### What is DevOps?
 
-- **<a href="https://www.atlassian.com/devops" target="_blank">DevOps with Atlassian</a>**
-- **<a href="https://puppet.com/solutions/devops" target="_blank">DevOps with Puppet</a>**
 - **<a href="https://en.wikipedia.org/wiki/DevOps" target="_blank">DevOps (Wikipedia)</a>**
-- **<a href="https://www.ibm.com/ibm/devops/us/en/" target="_blank">IBM DevOps</a>**
-- **<a href="https://newrelic.com/devops/what-is-devops" target="_blank">What is DevOps? (New Relic)</a>**
 
 ---
 
