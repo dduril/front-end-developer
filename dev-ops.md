@@ -16,6 +16,8 @@ An excellent resource can be found here:
 - **<a href="https://newrelic.com/devops/what-is-devops" target="_blank">What is DevOps? (New Relic)</a>**
 - **<a href="https://www.rackspace.com/devops" target="_blank">Rackspace - DevOps</a>**
 - **<a href="https://support.rackspace.com/white-paper/building-your-devops-engine-a-guide-to-tearing-down-organizational-silos-to-create-more/" target="_blank">Rackspace - Building Your DevOps Engine</a>**
+- **<a href="https://www.visualstudio.com/en-us/features/alm-devops-vs.aspx" target="_blank">Visual Studio - DevOps and Application Lifecycle Management</a>**
+- **<a href="https://www.microsoft.com/en/server-cloud/solutions/development-operations.aspx" target="_blank">Additional DevOps Article from Microsoft</a>**
 
 ---
 
