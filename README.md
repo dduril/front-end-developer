@@ -26,8 +26,9 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 
 ### Build Automation/Task Runners
 
-- **<a href="http://gruntjs.com/" target="_blank" title="Grunt">Grunt.js</a>**
-- **<a href="http://gulpjs.com/" target="_blank" title="Gulp">Gulp.js</a>** 
+- **<a href="http://broccolijs.com/" target="_blank" title="Broccoli.js">Broccoli.js</a>**
+- **<a href="http://gruntjs.com/" target="_blank" title="Grunt.js">Grunt.js</a>**
+- **<a href="http://gulpjs.com/" target="_blank" title="Gulp.js">Gulp.js</a>** 
 
 ### JavaScript Frameworks/Libraries
 
@@ -65,6 +66,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
      
 ### CSS Preprocessors
 
+- **<a href="http://compass-style.org/" target="_blank" title="Compass">Compass</a>**
 - **<a href="http://lesscss.org/" target="_blank" title="Less">Less</a>**
 - **<a href="http://sass-lang.com/" target="_blank" title="Sass">Sass</a>**
 - **<a href="https://learnboost.github.io/stylus/" target="_blank" title="Stylus">Stylus</a>**
@@ -72,6 +74,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 ### Template Systems
 - **<a href="http://www.dustjs.com/" target="_blank" title="Dust">Dust</a>**
 - **<a href="http://handlebarsjs.com/" target="_blank" title="Handlebars">Handlebars</a>**
+- **<a href="http://codepb.github.io/jquery-template/" target="_blank" title="jQuery Templates">jQuery Templates</a>**
 - **<a href="https://mustache.github.io/" target="_blank" title="Mustache">Mustache</a>**
 
 ### Module Loaders
@@ -83,6 +86,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 
 - **<a href="http://coffeescript.org/" target="_blank" title="CoffeeScript">CoffeeScript</a>**
 - **<a href="http://www.typescriptlang.org/" target="_blank" title="TypeScript">TypeScript</a>**
+- **<a href="https://www.typescriptlang.org/docs/tutorial.html" target="_blank">TypeScript Documentation</a>**
 
 ### Text Editors and Integrated Development Environments (IDE)
 
