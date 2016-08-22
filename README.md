@@ -16,6 +16,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank">CSS3</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla" target="_blank">ES6</a>** (ECMAScript) See also **<a href="http://es6-features.org/#Constants" target="_blank">ECMAScript 6</a>** and **<a href="https://babeljs.io/" target="_blank">Babel</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>**
+- **<a href="https://developer.mozilla.org/en-US/" target="_blank">MDN - Mozilla Developer Network</a>**
 
 ### Package Managers
 
@@ -95,7 +96,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a>**
 - **<a href="http://www.sublimetext.com/" target="_blank" title="Sublime">Sublime Text</a>**
 - **<a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">Visual Studio Code</a>**
-- **<a href="https://www.jetbrains.com/webstorm/" target="_blank" title="WebStorm">WebStorm</a>**
+- **<a href="https://www.jetbrains.com/webstorm/" target="_blank" title="WebStorm">JetBrains WebStorm</a>**
 
 ### Testing Frameworks
 
