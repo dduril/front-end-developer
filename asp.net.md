@@ -18,11 +18,12 @@
 
 ### Additional Tools
 
-- **<a href="" target="_blank">AngularJS</a>**
-- **<a href="" target="_blank">Bootstrap</a>**
-- **<a href="" target="_blank">jQuery</a>**
-- **<a href="" target="_blank">Less</a>**
-- **<a href="" target="_blank">Sass</a>**
+- **<a href="https://nodejs.org/en/" target="_blank">Node.js</a>**
+- **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
+- **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
+- **<a href="https://jquery.com/" target="_blank">jQuery</a>**
+- **<a href="http://lesscss.org/" target="_blank">Less</a>**
+- **<a href="http://sass-lang.com/" target="_blank">Sass</a>**
 
 ### Third Party Tools
 
