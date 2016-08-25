@@ -1,22 +1,22 @@
-# ASP.NET
+# Microsoft Web Development
 
-Under Development
+### ASP.NET
 
-### x
+- **<a href="http://www.asp.net/" target="_blank">ASP.NET</a>**
+- **<a href="https://azure.microsoft.com/en-us/" target="_blank">Azure</a>**
+- **<a href="https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx" target="_blank">C# Programming Guide</a>**
+- **<a href="http://www.asp.net/entity-framework" target="_blank">Entity Framework</a>**
+- **<a href="https://msdn.microsoft.com/en-us/library/bb397926.aspx" target="_blank">LINQ</a>**
+- **<a href="http://www.asp.net/mvc" target="_blank">MVC</a>**
+- **<a href="https://www.nuget.org/" target="_blank">NuGet</a>**
+- **<a href="http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c" target="_blank">Razor</a>**
+- **<a href="https://www.microsoft.com/en-us/cloud-platform/sql-server" target="_blank">SQL Server</a>**
+- **<a href="https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx" target="_blank">Team Foundation Server</a>**
+- **<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>**
+- **<a href="https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx" target="_blank">Visual Studio</a>**
+- **<a href="http://www.asp.net/web-api" target="_blank">Web API</a>**
 
-- **<a href="" target="_blank">ASP.NET</a>**
-- **<a href="" target="_blank">C#</a>**
-- **<a href="" target="_blank">Entity Framework</a>**
-- **<a href="" target="_blank">LINQ</a>**
-- **<a href="" target="_blank">MVC</a>**
-- **<a href="" target="_blank">NuGet</a>**
-- **<a href="" target="_blank">Razor</a>**
-- **<a href="" target="_blank">SQL Server</a>**
-- **<a href="" target="_blank">Team Foundation Server</a>**
-- **<a href="" target="_blank">TypeScript</a>**
-- **<a href="" target="_blank">Visual Studio</a>**
-
-### y
+### Additional Tools
 
 - **<a href="" target="_blank">AngularJS</a>**
 - **<a href="" target="_blank">Bootstrap</a>**
@@ -24,7 +24,7 @@ Under Development
 - **<a href="" target="_blank">Less</a>**
 - **<a href="" target="_blank">Sass</a>**
 
-### z
+### Third Party Tools
 
 - **<a href="" target="_blank">ComponentOne</a>**
 - **<a href="" target="_blank">DevExpress</a>**
