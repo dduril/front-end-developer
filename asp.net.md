@@ -27,8 +27,10 @@
 
 ### Third Party Tools
 
-- **<a href="" target="_blank">ComponentOne</a>**
-- **<a href="" target="_blank">DevExpress</a>**
-- **<a href="" target="_blank">Syncfusion</a>**
-- **<a href="" target="_blank">Telerik</a>**
-- **<a href="" target="_blank">Xamarin</a>**
+- **<a href="http://www.componentone.com/" target="_blank">ComponentOne</a>**
+- **<a href="https://www.devart.com/" target="_blank">DevArt</a>**
+- **<a href="https://www.devexpress.com/" target="_blank">DevExpress</a>**
+- **<a href="http://tools.grapecity.com/" target="_blank">GrapeCity</a>**
+- **<a href="https://www.syncfusion.com/" target="_blank">Syncfusion</a>**
+- **<a href="http://www.telerik.com/" target="_blank">Telerik</a>**
+- **<a href="https://www.xamarin.com/" target="_blank">Xamarin</a>**
