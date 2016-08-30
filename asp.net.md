@@ -9,11 +9,13 @@
 - **<a href="https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx" target="_blank">C# Programming Guide</a>**
 - **<a href="http://www.asp.net/entity-framework" target="_blank">Entity Framework</a>**
 - **<a href="https://msdn.microsoft.com/en-us/library/bb397926.aspx" target="_blank">LINQ (Language-Integrated Query)</a>**
+- **<a href="https://msdn.microsoft.com/en-us/dn308572.aspx" target="_blank">MSDN</a>**
 - **<a href="https://www.nuget.org/" target="_blank">NuGet Gallery</a>**
 - **<a href="http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c" target="_blank">Razor Syntax</a>**
 - **<a href="https://www.microsoft.com/en-us/cloud-platform/sql-server" target="_blank">SQL Server 2016</a>**
 - **<a href="https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx" target="_blank">Team Foundation Server</a>**
 - **<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>**
+- **<a href="https://www.visualstudio.com/en-us/products/code-vs.aspx" target="_blank">Visual Studio Code</a>**
 - **<a href="https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx" target="_blank">Visual Studio - Microsoft Developer Tools</a>**
 
 ### Additional Tools
