@@ -1,5 +1,9 @@
 # Microsoft Web Development
 
+This is a curated list of ASP.NET development tools and resources.
+
+Most of these links can be accessed from the main **<a href="https://www.microsoft.com/net" target="_blank">Microsoft .NET</a>** link. 
+
 ### ASP.NET
 
 - **<a href="http://www.asp.net/" target="_blank">ASP.NET</a>**
