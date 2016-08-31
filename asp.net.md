@@ -4,6 +4,11 @@ This is a curated list of ASP.NET development tools and resources.
 
 Most of these links can be accessed from the main **<a href="https://www.microsoft.com/net" target="_blank">Microsoft .NET</a>** link. Additional topics, such as, blogs, tutorials, and certifications can be easily found with a search on Google.
 
+### Community
+
+- **<a href="https://blogs.msdn.microsoft.com/webdev/" target="_blank">.NET Web Development and Tools Blog</a>**
+- **<a href="https://channel9.msdn.com/" target="_blank">Channel 9</a>**
+
 ### ASP.NET
 
 - **<a href="http://www.asp.net/" target="_blank">ASP.NET</a>**
