@@ -2,12 +2,13 @@
 
 This is a curated list of ASP.NET development tools and resources.
 
-Most of these links can be accessed from the main **<a href="https://www.microsoft.com/net" target="_blank">Microsoft .NET</a>** link. 
+Most of these links can be accessed from the main **<a href="https://www.microsoft.com/net" target="_blank">Microsoft .NET</a>** link. Additional topics, such as, blogs, tutorials, and certifications can be easily found with a search on Google.
 
 ### ASP.NET
 
 - **<a href="http://www.asp.net/" target="_blank">ASP.NET</a>**
 - **<a href="https://www.microsoft.com/net" target="_blank">Microsoft .NET</a>**
+- **<a href="http://www.asp.net/core" target="_blank">ASP.NET Core</a>** - **<a href="https://docs.asp.net/en/latest/" target="_blank">Docs</a>**
 - **<a href="http://www.asp.net/mvc" target="_blank">ASP.NET MVC</a>**
 - **<a href="http://www.asp.net/web-api" target="_blank">ASP.NET Web API</a>**
 - **<a href="https://azure.microsoft.com/en-us/" target="_blank">Azure - Cloud Computing Platform</a>**
@@ -23,15 +24,6 @@ Most of these links can be accessed from the main **<a href="https://www.microso
 - **<a href="https://www.visualstudio.com/en-us/products/code-vs.aspx" target="_blank">Visual Studio Code</a>**
 - **<a href="https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx" target="_blank">Visual Studio - Microsoft Developer Tools</a>**
 
-### Additional Tools
-
-- **<a href="https://nodejs.org/en/" target="_blank">Node.js</a>**
-- **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
-- **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
-- **<a href="https://jquery.com/" target="_blank">jQuery</a>**
-- **<a href="http://lesscss.org/" target="_blank">Less</a>**
-- **<a href="http://sass-lang.com/" target="_blank">Sass</a>**
-
 ### Third Party Tools
 
 - **<a href="http://www.componentone.com/" target="_blank">ComponentOne</a>**
@@ -41,3 +33,18 @@ Most of these links can be accessed from the main **<a href="https://www.microso
 - **<a href="https://www.syncfusion.com/" target="_blank">Syncfusion</a>**
 - **<a href="http://www.telerik.com/" target="_blank">Telerik</a>**
 - **<a href="https://www.xamarin.com/" target="_blank">Xamarin</a>**
+
+### Additional Tools
+
+Many of these tools are being incorporated into the .NET pipeline and are included in some of the Visual Studio .NET projects.
+
+- **<a href="https://nodejs.org/en/" target="_blank">Node.js</a>**
+- **<a href="https://www.npmjs.com/" target="_blank">npm</a>**
+- **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
+- **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
+- **<a href="https://bower.io/" target="_blank">Bower</a>**
+- **<a href="http://gruntjs.com/" target="_blank">Grunt</a>**
+- **<a href="http://gulpjs.com/" target="_blank">Gulp</a>**
+- **<a href="https://jquery.com/" target="_blank">jQuery</a>**
+- **<a href="http://lesscss.org/" target="_blank">Less</a>**
+- **<a href="http://sass-lang.com/" target="_blank">Sass</a>**
