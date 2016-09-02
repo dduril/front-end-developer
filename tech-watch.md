@@ -18,18 +18,22 @@
 
 The following lists provide insight into what's hot and cutting edge in the high tech world. By skimming online courses being offered and programming/technology books published, you can get a good read on where to focus your time. Additional coming soon sections and upcoming releases can give you a heads up and put new things on your radar.
 
-### Online Learning (MOOC)
+### Online Learning and MOOC
 
-- **Coursera**
-- **edX**
-- **Lynda.com**
-- **Pluralsight**
-- **Udacity**
+- **<a href="" target="_blank">Codecademy</a>**
+- **<a href="https://www.codeschool.com/" target="_blank">Code School</a>**
+- **<a href="" target="_blank">Coursera</a>**
+- **<a href="" target="_blank">edX</a>**
+- **<a href="" target="_blank">Lynda.com</a>**
+- **<a href="" target="_blank">Pluralsight</a>**
+- **<a href="" target="_blank">Udacity</a>**
 
 ### Technology Book Publishers
 
-- **Apress**
-- **Manning**
-- **Murach**
-- **O'Reilly**
-- **Wrox**
+- **<a href="" target="_blank">Addison Wesley</a>**
+- **<a href="" target="_blank">Apress</a>**
+- **<a href="" target="_blank">Manning</a>**
+- **<a href="" target="_blank">Murach</a>**
+- **<a href="" target="_blank">O'Reilly</a>**
+- **<a href="" target="_blank">Packt Publishing</a>**
+- **<a href="" target="_blank">Wrox</a>**
