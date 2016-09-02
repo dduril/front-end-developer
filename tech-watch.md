@@ -15,3 +15,19 @@
 - **<a href="https://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a>**
 - **<a href="https://techcrunch.com/" target="_blank">Techcrunch</a>**
 - **<a href="http://www.wired.com/" target="_blank">Wired</a>**
+
+### Online Learning (MOOC)
+
+- **Coursera**
+- **edX**
+- **Lynda.com**
+- **Pluralsight**
+- **Udacity**
+
+### Technology Book Publishers
+
+- **Apress**
+- **Manning**
+- **Murach**
+- **O'Reilly**
+- **Wrox**
