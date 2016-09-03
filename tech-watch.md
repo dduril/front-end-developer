@@ -18,6 +18,12 @@
 
 The following lists provide insight into what's hot and cutting edge in the high tech world. By skimming online courses being offered and programming/technology books published, you can get a good read on where to focus your time. Additional coming soon sections and upcoming releases can give you a heads up and put new things on your radar.
 
+### Videos
+
+- **<a href="https://gotocon.com/" target="_blank">GOTO</a>**
+- **<a href="https://www.ted.com/" target="_blank">Ted Talks</a>**
+- **<a href="https://www.youtube.com/channels/tech" target="_blank">YouTube - Tech Channels</a>**
+
 ### Online Learning and MOOC
 
 - **<a href="https://www.codecademy.com/" target="_blank">Codecademy</a>**
