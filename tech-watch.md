@@ -20,20 +20,20 @@ The following lists provide insight into what's hot and cutting edge in the high
 
 ### Online Learning and MOOC
 
-- **<a href="" target="_blank">Codecademy</a>**
+- **<a href="https://www.codecademy.com/" target="_blank">Codecademy</a>**
 - **<a href="https://www.codeschool.com/" target="_blank">Code School</a>**
-- **<a href="" target="_blank">Coursera</a>**
-- **<a href="" target="_blank">edX</a>**
-- **<a href="" target="_blank">Lynda.com</a>**
-- **<a href="" target="_blank">Pluralsight</a>**
-- **<a href="" target="_blank">Udacity</a>**
+- **<a href="https://www.coursera.org/" target="_blank">Coursera</a>**
+- **<a href="https://www.edx.org/" target="_blank">edX</a>**
+- **<a href="https://www.lynda.com/" target="_blank">Lynda.com</a>**
+- **<a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>**
+- **<a href="https://www.udacity.com/" target="_blank">Udacity</a>**
 
 ### Technology Book Publishers
 
-- **<a href="" target="_blank">Addison Wesley</a>**
-- **<a href="" target="_blank">Apress</a>**
-- **<a href="" target="_blank">Manning</a>**
-- **<a href="" target="_blank">Murach</a>**
-- **<a href="" target="_blank">O'Reilly</a>**
-- **<a href="" target="_blank">Packt Publishing</a>**
-- **<a href="" target="_blank">Wrox</a>**
+- **<a href="http://www.informit.com/" target="_blank">Addison Wesley</a>**
+- **<a href="https://www.apress.com/" target="_blank">Apress</a>**
+- **<a href="https://www.manning.com/" target="_blank">Manning</a>**
+- **<a href="https://www.murach.com/" target="_blank">Murach</a>**
+- **<a href="http://www.oreilly.com/" target="_blank">O'Reilly</a>**
+- **<a href="https://www.packtpub.com/" target="_blank">Packt Publishing</a>**
+- **<a href="http://www.wrox.com/WileyCDA/" target="_blank">Wrox</a>**
