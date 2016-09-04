@@ -13,6 +13,7 @@
 - **<a href="http://www.recode.net/" target="_blank">Recode</a>**
 - **<a href="https://slashdot.org/" target="_blank">Slashdot</a>**
 - **<a href="https://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a>**
+- **<a href="http://www.tiobe.com/tiobe-index/" target="_blank">TIOBE Index</a>**
 - **<a href="https://techcrunch.com/" target="_blank">Techcrunch</a>**
 - **<a href="http://www.wired.com/" target="_blank">Wired</a>**
 
@@ -20,7 +21,7 @@ The following lists provide insight into what's hot and cutting edge in the high
 
 ### Videos
 
-- **<a href="https://gotocon.com/" target="_blank">GOTO</a>**
+- **<a href="https://gotocon.com/" target="_blank">GOTO; Conferences</a>**
 - **<a href="https://www.ted.com/" target="_blank">Ted Talks</a>**
 - **<a href="https://www.youtube.com/channels/tech" target="_blank">YouTube - Tech Channels</a>**
 
