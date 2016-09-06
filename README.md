@@ -43,7 +43,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>** (web framework)
 - **<a href="https://www.meteor.com/" target="_blank" title="Meteor">Meteor</a>** (web framework)
 - **<a href="https://www.polymer-project.org/1.0/" target="_blank" title="Polymer">Polymer</a>** (library)
-- **<a href="http://getuikit.com/" target="_blank" title="React">React</a>** (JavaScript library)
+- **<a href="https://facebook.github.io/react/" target="_blank" title="React">React</a>** (JavaScript library)
 
 ### Front-end CSS Frameworks
 
@@ -52,7 +52,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="http://purecss.io/" target="_blank" title="Pure">Pure</a>**
 - **<a href="http://semantic-ui.com/" target="_blank" title="Semantic UI">Semantic UI</a>**
 - **<a href="http://getskeleton.com/" target="_blank" title="Skeleton">Skeleton</a>**
-- **<a href="http://getskeleton.com/" target="_blank" title="uikit">uikit</a>**
+- **<a href="http://getuikit.com/" target="_blank" title="uikit">uikit</a>**
     
 ### Front-end Libraries
 
