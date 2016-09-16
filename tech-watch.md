@@ -2,7 +2,7 @@
 
 ### Popular Blogs and Sites
 
-For keeping up to data with news, trends and also online tutorials.
+For keeping up to date with news, trends and online tutorials.
 
 - **<a href="http://alistapart.com/" target="_blank">A List Apart</a>**
 - **<a href="https://blog.codinghorror.com/" target="_blank">Coding Horror</a>**
@@ -30,6 +30,8 @@ The following lists provide insight into what's hot and cutting edge in the high
 
 ### Online Learning, Challenges, and MOOCs
 
+These sites are an excellent indicator for where to focus your energies.
+
 - **<a href="https://www.codecademy.com/" target="_blank">Codecademy</a>**
 - **<a href="https://www.codeschool.com/" target="_blank">Code School</a>**
 - **<a href="https://www.coursera.org/" target="_blank">Coursera</a>**
@@ -38,10 +40,11 @@ The following lists provide insight into what's hot and cutting edge in the high
 - **<a href="https://www.lynda.com/" target="_blank">Lynda.com</a>**
 - **<a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>**
 - **<a href="https://www.udacity.com/" target="_blank">Udacity</a>**
+- **<a href="http://www.ucsc-extension.edu/content/engineering-and-technology-2" target="_blank">UCSC Silicon Valley Extension</a>**
 
 ### Technology Book Publishers
 
-What's being published is an excellent indicator of what's hot and trending.
+What's being published is also an excellent indicator of what's hot and trending.
 
 - **<a href="http://www.informit.com/" target="_blank">Addison Wesley</a>**
 - **<a href="https://www.apress.com/" target="_blank">Apress</a>**
