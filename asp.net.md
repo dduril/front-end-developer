@@ -9,7 +9,7 @@ Most of these links can be accessed from the main **<a href="https://www.microso
 - **<a href="https://blogs.msdn.microsoft.com/webdev/" target="_blank">.NET Web Development and Tools Blog</a>**
 - **<a href="https://channel9.msdn.com/" target="_blank">Channel 9</a>**
 
-### ASP.NET
+### Microsoft Stack, Components, and Tools
 
 - **<a href="http://www.asp.net/" target="_blank">ASP.NET</a>**
 	- **<a href="http://www.asp.net/web-pages" target="_blank">Web Pages</a>**
@@ -29,11 +29,15 @@ Most of these links can be accessed from the main **<a href="https://www.microso
 - **<a href="https://msdn.microsoft.com/en-us/dn308572.aspx" target="_blank">MSDN</a>**
 - **<a href="https://www.nuget.org/" target="_blank">NuGet Gallery</a>**
 - **<a href="http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-c" target="_blank">Razor Syntax</a>**
+- **<a href="https://products.office.com/en-us/sharepoint/collaboration" target="_blank">SharePoint</a>**
 - **<a href="https://www.microsoft.com/en-us/cloud-platform/sql-server" target="_blank">SQL Server 2016</a>**
 - **<a href="https://www.visualstudio.com/en-us/products/tfs-overview-vs.aspx" target="_blank">Team Foundation Server</a>**
 - **<a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>**
+- **<a href="https://products.office.com/en-us/visio/flowchart-software" target="_blank">Visio</a>**
 - **<a href="https://www.visualstudio.com/en-us/products/code-vs.aspx" target="_blank">Visual Studio Code</a>**
 - **<a href="https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx" target="_blank">Visual Studio - Microsoft Developer Tools</a>**
+
+### Web Development
 
 ### Third Party Tools
 
