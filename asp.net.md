@@ -39,6 +39,11 @@ Most of these links can be accessed from the main **<a href="https://www.microso
 
 ### Web Development
 
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>**
+- **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>**
+- **<a href="https://developer.mozilla.org/en-US/" target="_blank">MDN - Mozilla Developer Network</a>**
+
 ### Third Party Tools
 
 - **<a href="http://www.componentone.com/" target="_blank">ComponentOne</a>**
