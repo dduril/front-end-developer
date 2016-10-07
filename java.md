@@ -27,4 +27,8 @@
 - **<a href="https://www.jetbrains.com/idea/" target="_blank" title="IntelliJ">IntelliJ</a>**
 - **<a href="http://www.oracle.com/technetwork/developer-tools/jdev/overview/index.html" target="_blank" title="JDeveloper">JDeveloper</a>**
 - **<a href="https://netbeans.org/" target="_blank" title="NetBeans">NetBeans</a>**, **<a href="https://netbeans.org/downloads/" target="_blank" title="NetBeans Downloads">Downloads</a>**, **<a href="https://netbeans.org/kb/index.html" target="_blank" title="NetBeans Documentation">Documentation</a>** 
+
+#### Version Control
+
+- **<a href="https://git-scm.com/" target="_blank">Git</a>** - Distributed version control system
  
