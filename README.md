@@ -94,10 +94,11 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 
 - **<a href="http://www.aptana.com/" target="_blank" title="Aptana Studio">Aptana Studio</a>**
 - **<a href="http://brackets.io/" target="_blank" title="Brackets">Brackets</a>**
+- **<a href="http://komodoide.com/" target="_blank">Komodo IDE</a>**
 - **<a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a>**
 - **<a href="http://www.sublimetext.com/" target="_blank" title="Sublime">Sublime Text</a>**
 - **<a href="https://code.visualstudio.com/" target="_blank" title="Visual Studio Code">Visual Studio Code</a>**
-- **<a href="https://www.jetbrains.com/webstorm/" target="_blank" title="WebStorm">JetBrains WebStorm</a>**
+- **<a href="https://www.jetbrains.com/webstorm/" target="_blank" title="WebStorm">WebStorm</a>**
 
 ### Testing Frameworks
 
