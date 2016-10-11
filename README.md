@@ -33,7 +33,8 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 
 ### JavaScript Frameworks/Libraries
 
-- **<a href="https://angularjs.org/" target="_blank" title="AngularJS">AngularJS</a>** (open-source web application framework)
+- **<a href="https://angularjs.org/" target="_blank" title="AngularJS 1">AngularJS 1</a>** (open-source web application framework)
+- **<a href="https://angular.io/" target="_blank" title="Angular 2">Angular 2</a>** (Successor to AngularJS)
 - **<a href="http://aurelia.io/" target="_blank" title="Aurelia">Aurelia</a>** (JavaScript framework)
 - **<a href="http://backbonejs.org/" target="_blank" title="Backbone.js">Backbone.js</a>** (JavaScript framework)
 - **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>** (open-source JavaScript web framework)
