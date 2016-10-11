@@ -10,7 +10,7 @@ For keeping up to date with news, trends and online tutorials.
 - **<a href="https://devcenter.heroku.com/" target="_blank">Heroku Dev Center</a>**
 - **<a href="https://www.ibm.com/developerworks/" target="_blank">IBM developerWorks</a>**
 - **<a href="http://lifehacker.com/" target="_blank">Lifehacker</a>**
-- **<a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a>**
+- **<a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a>** - Focus on HTML, CSS, and JavaScript
 - **<a href="https://msdn.microsoft.com/web-app-development-msdn" target="_blank">MSDN</a>**
 - **<a href="https://www.oreilly.com/ideas" target="_blank">O'Reilly Radar</a>**
 - **<a href="http://www.recode.net/" target="_blank">Recode</a>**
@@ -37,9 +37,10 @@ These sites are an excellent indicator for where to focus your energies.
 - **<a href="https://www.coursera.org/" target="_blank">Coursera</a>**
 - **<a href="https://www.edx.org/" target="_blank">edX</a>**
 - **<a href="https://www.hackerrank.com/" target="_blank">HackerRank</a>**
-- **<a href="https://www.lynda.com/" target="_blank">Lynda.com</a>**
+- **<a href="https://www.lynda.com/" target="_blank">Lynda.com</a>** - Also known as LinkedIn Learning
 - **<a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>**
 - **<a href="https://www.udacity.com/" target="_blank">Udacity</a>**
+- **<a href="http://extension.berkeley.edu/publicViewHome.do?method=load" target="_blank">UC Berkeley Extension</a>**
 - **<a href="http://www.ucsc-extension.edu/content/engineering-and-technology-2" target="_blank">UCSC Silicon Valley Extension</a>**
 
 ### Technology Book Publishers
@@ -50,8 +51,8 @@ What's being published is also an excellent indicator of what's hot and trending
 - **<a href="https://www.apress.com/" target="_blank">Apress</a>**
 - **<a href="https://leanpub.com/" target="_blank">Leanpub</a>** (Good and affordable books, variety of topics)
 - **<a href="https://www.manning.com/" target="_blank">Manning</a>**
-- **<a href="https://www.murach.com/" target="_blank">Murach</a>**
-- **<a href="http://www.oreilly.com/" target="_blank">O'Reilly</a>**
-- **<a href="https://www.packtpub.com/" target="_blank">Packt Publishing</a>**
+- **<a href="https://www.murach.com/" target="_blank">Murach</a>** - Good for .NET and SQL Server
+- **<a href="http://www.oreilly.com/" target="_blank">O'Reilly</a>** - Technical and on point
+- **<a href="https://www.packtpub.com/" target="_blank">Packt Publishing</a>** - Tons of publishings
 - **<a href="https://www.syncfusion.com/resources/techportal/ebooks" target="_blank">Syncfusion Succinctly e-books</a>** (Great collection of free e-books)
 - **<a href="http://www.wrox.com/WileyCDA/" target="_blank">Wrox</a>**
