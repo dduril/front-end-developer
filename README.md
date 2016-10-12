@@ -124,6 +124,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 
 ### Facebook Projects
 
+- **<a href="https://code.facebook.com/projects/" target="_blank" title="Facebook Open Source">Facebook Open Source</a>**
 - **<a href="https://facebook.github.io/react/" target="_blank" title="React">React</a>** (JavaScript library)
 - **<a href="https://facebook.github.io/react-native/" target="_blank" title="React Native">React Native</a>** (Native Mobile Apps)
 - **<a href="https://facebook.github.io/flux/" target="_blank" title="Flux">Flux</a>** (Application architecture)
