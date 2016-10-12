@@ -122,14 +122,12 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="http://es6-features.org/" target="_blank">ECMAScript 6</a>** (ES6)
 - **<a href="https://en.wikipedia.org/wiki/ECMAScript" target="_blank">Wikipedia Page</a>** (Overall background and progress) 
 
-### Facebook
+### Facebook Projects
 
-This is a special section for the **Facebook** frameworks and tools
-
-- **<a href="https://facebook.github.io/react/" target="_blank" title="React">React</a>**
-- **<a href="https://facebook.github.io/react-native/" target="_blank" title="React Native">React Native</a>**
-- **<a href="https://facebook.github.io/flux/" target="_blank" title="Flux">Flux</a>**
-- **<a href="https://facebook.github.io/jest/" target="_blank" title="Jest">Jest</a>**
+- **<a href="https://facebook.github.io/react/" target="_blank" title="React">React</a>** (JavaScript library)
+- **<a href="https://facebook.github.io/react-native/" target="_blank" title="React Native">React Native</a>** (Native Mobile Apps)
+- **<a href="https://facebook.github.io/flux/" target="_blank" title="Flux">Flux</a>** (Application architecture)
+- **<a href="https://facebook.github.io/jest/" target="_blank" title="Jest">Jest</a>** (JavaScript testing framework)
 
 ### Additional Tools
 
