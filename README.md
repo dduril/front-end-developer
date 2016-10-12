@@ -36,6 +36,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="https://angularjs.org/" target="_blank" title="AngularJS 1">AngularJS 1</a>** (open-source web application framework)
 - **<a href="https://angular.io/" target="_blank" title="Angular 2">Angular 2</a>** (Successor to AngularJS)
 - **<a href="http://aurelia.io/" target="_blank" title="Aurelia">Aurelia</a>** (JavaScript framework)
+- **<a href="https://babeljs.io/" target="_blank">Babel</a>** (JavaScript compiler)
 - **<a href="http://backbonejs.org/" target="_blank" title="Backbone.js">Backbone.js</a>** (JavaScript framework)
 - **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>** (open-source JavaScript web framework)
 - **<a href="https://www.sencha.com/products/extjs/#overview" target="_blank" title="ExtJS">ExtJS</a>** (JavaScript framework) 
@@ -79,7 +80,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 - **<a href="http://codepb.github.io/jquery-template/" target="_blank" title="jQuery Templates">jQuery Templates</a>**
 - **<a href="https://mustache.github.io/" target="_blank" title="Mustache">Mustache</a>**
 
-### Module Loaders
+### Module Bundlers/Loaders
 - **<a href="http://browserify.org/" target="_blank" title="Browserify">Browserify</a>**
 - **<a href="http://requirejs.org/" target="_blank" title="RequireJS">RequireJS</a>**
 - **<a href="https://webpack.github.io/" target="_blank" title="Webpack">Webpack</a>**
@@ -103,6 +104,7 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 ### Testing Frameworks
 
 - **<a href="http://jasmine.github.io/" target="_blank" title="Jasmine">Jasmine</a>**
+- **<a href="https://facebook.github.io/jest/" target="_blank" title="Jest">Jest</a>**
 - **<a href="http://karma-runner.github.io/0.13/index.html" target="_blank" title="Karma">Karma</a>**
 - **<a href="https://mochajs.org/" target="_blank" title="Mocha">Mocha</a>**
 - **<a href="https://qunitjs.com/" target="_blank" title="QUnit">QUnit</a>**
