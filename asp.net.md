@@ -50,13 +50,14 @@ Most of these links can be accessed from the main **<a href="https://www.microso
 - **<a href="https://www.devart.com/" target="_blank">DevArt</a>**
 - **<a href="https://www.devexpress.com/" target="_blank">DevExpress</a>**
 - **<a href="http://tools.grapecity.com/" target="_blank">GrapeCity</a>**
+- **<a href="http://www.infragistics.com/" target="_blank">Infragistics</a>**
 - **<a href="https://www.syncfusion.com/" target="_blank">Syncfusion</a>**
 - **<a href="http://www.telerik.com/" target="_blank">Telerik</a>**
 - **<a href="https://www.xamarin.com/" target="_blank">Xamarin</a>**
 
 ### Additional Tools
 
-Many of these tools are being incorporated into the .NET pipeline and are included in some of the Visual Studio .NET projects.
+Many of these frameworks, libraries, and tools are being incorporated into the .NET workflow and are included in many of the Visual Studio project templates. Most of these items have become part-and-parcel of the modern web application pipeline.
 
 - **<a href="https://nodejs.org/en/" target="_blank">Node.js</a>**
 - **<a href="https://www.npmjs.com/" target="_blank">npm</a>**
@@ -68,3 +69,10 @@ Many of these tools are being incorporated into the .NET pipeline and are includ
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
 - **<a href="http://lesscss.org/" target="_blank">Less</a>**
 - **<a href="http://sass-lang.com/" target="_blank">Sass</a>**
+
+### Publishers
+
+- **<a href="https://www.apress.com/microsoft/asp-net/" target="_blank">Apress</a>**
+- **<a href="https://www.manning.com/" target="_blank">Manning</a>**
+- **<a href="https://www.murach.com/" target="_blank">Murach</a>**
+- **<a href="http://www.wrox.com/WileyCDA/" target="_blank">Wrox</a>**
