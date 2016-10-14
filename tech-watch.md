@@ -37,8 +37,11 @@ These sites are an excellent indicator for where to focus your energies.
 - **<a href="https://www.coursera.org/" target="_blank">Coursera</a>**
 - **<a href="https://www.edx.org/" target="_blank">edX</a>**
 - **<a href="https://www.hackerrank.com/" target="_blank">HackerRank</a>**
+- **<a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a>**
 - **<a href="https://www.lynda.com/" target="_blank">Lynda.com</a>** - Also known as LinkedIn Learning
 - **<a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>**
+- **<a href="http://online.stanford.edu/" target="_blank">Stanford Online</a>**
+- **<a href="https://teamtreehouse.com/" target="_blank">Treehouse</a>**
 - **<a href="https://www.udacity.com/" target="_blank">Udacity</a>**
 - **<a href="http://extension.berkeley.edu/publicViewHome.do?method=load" target="_blank">UC Berkeley Extension</a>**
 - **<a href="http://www.ucsc-extension.edu/content/engineering-and-technology-2" target="_blank">UCSC Silicon Valley Extension</a>**
