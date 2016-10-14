@@ -80,3 +80,9 @@ Many of these frameworks, libraries, and tools are being incorporated into the .
 - **<a href="https://www.manning.com/" target="_blank">Manning</a>**
 - **<a href="https://www.murach.com/" target="_blank">Murach</a>**
 - **<a href="http://www.wrox.com/WileyCDA/" target="_blank">Wrox</a>**
+
+### Online Training
+
+- **<a href="https://www.microsoft.com/en-us/learning/certification-overview.aspx" target="_blank">Microsoft Learning - Certifications</a>**
+- **<a href="https://mva.microsoft.com/" target="_blank">Microsoft Virtual Academy</a>**
+- **<a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>**
