@@ -40,6 +40,7 @@ Most of these links can be accessed from the main **<a href="https://www.microso
 		- <a href="https://www.devexpress.com/Products/CodeRush/" target="_blank">CodeRush</a> - DevExpress
 		- <a href="http://www.telerik.com/products/justcode.aspx" target="_blank">JustCode</a> - Telerik
 		- <a href="https://www.jetbrains.com/resharper/" target="_blank">ReSharper</a> - JetBrains
+		- <a href="http://vswebessentials.com/" target="_blank">Web Essentials</a> - Microsoft
 
 ### Web Development Essentials
 
