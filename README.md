@@ -139,6 +139,12 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **<a href="https://facebook.github.io/jest/" target="_blank" title="Jest">Jest</a>** (JavaScript testing framework)
 - **<a href="https://yarnpkg.com/" target="_blank" title="Yarn">Yarn</a>** (Package manager)
 
+### Google Projects
+
+- **<a href="https://fonts.google.com/" target="_blank">Google fonts</a>**
+- **<a href="https://material.google.com/#introduction-principles" target="_blank">Material</a>**
+- **<a href="https://design.google.com/icons/" target="_blank">Material icons</a>**
+
 ### Online Collaborative Coding Environments
 
 - **<a href="http://codepen.io/" target="_blank" title="CodePen">CodePen</a>**
