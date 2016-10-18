@@ -17,6 +17,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank">CSS3</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla" target="_blank">ES6</a>** (ECMAScript) See also **<a href="http://es6-features.org/#Constants" target="_blank">ECMAScript 6</a>**
+- **<a href="https://developers.google.com/" target="_blank">Google Developers</a>**
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a>**
 - **<a href="https://developer.mozilla.org/en-US/" target="_blank">MDN - Mozilla Developer Network</a>**
 
@@ -43,6 +44,9 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>** (open-source JavaScript web framework)
 - **<a href="https://www.sencha.com/products/extjs/#overview" target="_blank" title="ExtJS">ExtJS</a>** (JavaScript framework) 
 - **<a href="http://ionicframework.com/" target="_blank" title="Ionic">Ionic</a>** (mobile app framework)
+- **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
+- **<a href="https://jqueryui.com/" target="_blank" title="jQueryUI">jQueryUI</a>**
+- **<a href="http://jquerymobile.com/" target="_blank" title="">jQuery Mobile</a>**
 - **<a href="http://www.telerik.com/kendo-ui" target="_blank" title="Kendo UI">Kendo UI</a>** (framework for modern HTML UI)
 - **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>** (web framework)
 - **<a href="https://www.meteor.com/" target="_blank" title="Meteor">Meteor</a>** (web framework)
@@ -58,17 +62,19 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **<a href="http://getskeleton.com/" target="_blank" title="Skeleton">Skeleton</a>**
 - **<a href="http://getuikit.com/" target="_blank" title="uikit">uikit</a>**
     
-### Front-end Libraries
+### Front-end Libraries - Data Visualization
 
+- **<a href="http://www.chartjs.org/" target="_blank" title="Chart.js">Chart.js</a>**
+	- **<a href="http://www.chartjs.org/docs/" target="_blank" title="Chart.js">Documentation</a>**
 - **<a href="https://d3js.org/" target="_blank" title="D3.js">D3.js</a>**
-- **<a href="https://developers.google.com/" target="_blank">Google Developers</a>**
 - **<a href="https://developers.google.com/chart/" target="_blank" title="Google Charts">Google Charts</a>**
-- **<a href="https://developers.google.com/maps/" target="_blank" title="Google Maps API">Google Maps API</a>**
 - **<a href="http://www.highcharts.com/" target="_blank" title="HighCharts">HighCharts</a>**
-- **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
-- **<a href="https://jqueryui.com/" target="_blank" title="jQueryUI">jQueryUI</a>**
-- **<a href="http://jquerymobile.com/" target="_blank" title="">jQuery Mobile</a>**
-     
+
+### Front-end Libraries - Mapping
+
+- **<a href="https://developers.google.com/maps/" target="_blank" title="Google Maps API">Google Maps API</a>**
+- **<a href="http://leafletjs.com/" target="_blank">Leaflet</a>**
+  
 ### CSS Preprocessors
 
 - **<a href="http://compass-style.org/" target="_blank" title="Compass">Compass</a>**
