@@ -124,7 +124,6 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **<a href="http://ngcordova.com/" target="_blank" title="ngCordova">ngCordova</a>**
 - **<a href="http://phonegap.com/" target="_blank" title="PhoneGap">PhoneGap (Adobe)</a>**
 
-
 ### ECMAScript
 
 - **<a href="http://es6-features.org/" target="_blank">ECMAScript 6</a>** (ES6)
