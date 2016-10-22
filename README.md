@@ -25,7 +25,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 - **<a href="http://bower.io/" target="_blank" title="Bower">Bower</a>**
 - **<a href="https://chocolatey.org/" target="_blank" title="Chocolatey">Chocolatey</a>**
-- **<a href="https://www.npmjs.com/" target="_blank" title="npm">npm</a>**
+- **<a href="https://www.npmjs.com/" target="_blank" title="npm">npm</a>** - **<a href="https://docs.npmjs.com/" target="_blank" title="npm">npm Documentation</a>** 
 - **<a href="http://yeoman.io/" target="_blank" title="Yeoman">Yeoman</a>**
 
 ### Build Automation/Task Runners
