@@ -1,9 +1,12 @@
 # AngularJS
 
-**Some references that might be helpful:**
+**Some references to get started:**
 
 - **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
-- **<a href="https://docs.angularjs.org/misc/started" target="_blank">Getting Started</a>**
+- **<a href="https://angular.io/docs/ts/latest/" target="_blank">AngularJS - Documentation</a>**
+- **<a href="https://docs.angularjs.org/misc/started" target="_blank">AngularJS - Getting Started</a>**
+
+The documentation contains some excellent tutorials for getting started with Angular applications development using TypeScript, JavaScript or Dart.
 
 ### Basic Example
 
