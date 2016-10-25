@@ -10,6 +10,8 @@ The application directory structures:
 		|	|
 		|	+--app.component.ts
 		|	+--app.module.ts
+		|	+--hero.ts
+		|	+--hero-detail.component.ts
 		|	+--main.ts
 		|
 		+--node_modules
