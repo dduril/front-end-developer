@@ -12,7 +12,9 @@ The application directory structures:
 		|	+--app.module.ts
 		|	+--hero.ts
 		|	+--hero-detail.component.ts
+		|	+--hero-service.ts
 		|	+--main.ts
+		|	+--mock-heroes.ts
 		|
 		+--node_modules
 		+--index.html
