@@ -1,8 +1,10 @@
 # DevOps
 
-This is a work-in-progress page - I am exploring the DevOps ecosystem. Some of the products and technologies may be listed in more than one area.
+I am exploring the **DevOps** ecosystem. Some of the products and technologies may be listed in more than one area. The goal is to have a documented list of resources and articles to reference and share with other interested IT workers.
 
 As this is a curated list, more items will be added and existing items may be shuffled around as I learn more.
+
+After continued reading, **DevOps** appears to combine the talents of system, network, and database administration with that of application development. Additional knowledge of virtualized and containerized environments, cloud computing, microservices, and Agile/Scrum teams is helpful.
 
 An excellent resource can be found here:
 **<a href="https://xebialabs.com/periodic-table-of-devops-tools/">XebiaLabs - Periodic Table of DevOps Tools</a>** 
