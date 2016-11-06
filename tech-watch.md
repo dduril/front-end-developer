@@ -1,5 +1,17 @@
 # TechWatch
 
+### Major Topic Areas
+
+- **Agile and Scrum**
+- **Artificial Intelligence and Machine Learning**
+- **Big Data** - Management, Mining, Warehousing, ETL, OLAP
+- **Cloud Computing** - Amazon Web Services, Azure, Google Cloud Platform
+- **CryptoCurrency** - Bitcoin and Blockchain
+- **DevOps**
+- **Driverless Technology**
+- **Internet of Things (IoT)**
+- **Microservices** - and  service-oriented architectures (SOA)
+
 ### Popular Blogs and Sites
 
 For keeping up to date with news, trends and online tutorials.
