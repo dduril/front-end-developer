@@ -11,6 +11,8 @@ An excellent resource can be found here:
 
 ### What is DevOps?
 
+Great article here: <a href="https://www.linkedin.com/pulse/essential-devops-skills-thomas-theakanath">Essential DevOps Skills</a>
+
 - **<a href="https://www.atlassian.com/devops" target="_blank">DevOps with Atlassian</a>**
 - **<a href="https://puppet.com/solutions/devops" target="_blank">DevOps with Puppet</a>**
 - **<a href="https://en.wikipedia.org/wiki/DevOps" target="_blank">DevOps (Wikipedia)</a>**
