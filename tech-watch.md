@@ -34,6 +34,13 @@ For keeping up to date with news, trends and online tutorials.
 
 The following lists provide insight into what's hot and cutting edge in the high tech world. By skimming online courses being offered and programming/technology books published, you can get a good read on where to focus your time. Additional coming soon sections and upcoming releases can give you a heads up and put new things on your radar.
 
+### Books - from my reading list
+
+- **Only Humans Need Apply:** *Winners and Losers in the Age of Smart Machines*
+- **The Age of Cryptocurrency:** *How Bitcoin and the Blockchain are Challenging the Global Economic Order*
+- **Rise of the Robots:** *Technology and the Threat of a Jobless Future*
+- **The Inevitable:** *Understanding the 12 Technological Forces That Will Shape Our Future*
+
 ### Videos
 
 - **<a href="https://gotocon.com/" target="_blank">GOTO; Conferences</a>**
