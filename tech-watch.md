@@ -36,10 +36,11 @@ The following lists provide insight into what's hot and cutting edge in the high
 
 ### Books - from my reading list
 
-- **Only Humans Need Apply:** *Winners and Losers in the Age of Smart Machines*
-- **The Age of Cryptocurrency:** *How Bitcoin and the Blockchain are Challenging the Global Economic Order*
-- **Rise of the Robots:** *Technology and the Threat of a Jobless Future*
-- **The Inevitable:** *Understanding the 12 Technological Forces That Will Shape Our Future*
+- **Only Humans Need Apply:** *Winners and Losers in the Age of Smart Machines* (2016)
+- **The Age of Cryptocurrency:** *How Bitcoin and the Blockchain are Challenging the Global Economic Order* (2015)
+- **Rise of the Robots:** *Technology and the Threat of a Jobless Future* (2015)
+- **The Inevitable:** *Understanding the 12 Technological Forces That Will Shape Our Future* (2016)
+- **Thank You for Being Late:** *An Optimist's Guide to Thriving in the Age of Accelerations* (2016)
 
 ### Videos
 
