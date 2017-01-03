@@ -25,6 +25,8 @@ For keeping up to date with news, trends and online tutorials.
 - **<a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a>** - Focus on HTML, CSS, and JavaScript
 - **<a href="https://msdn.microsoft.com/web-app-development-msdn" target="_blank">MSDN</a>**
 - **<a href="https://www.oreilly.com/ideas" target="_blank">O'Reilly Radar</a>**
+	- **<a href="https://www.oreilly.com/learning">Learning</a>**
+	- **<a href="https://www.oreilly.com/topics">Topics</a>**
 - **<a href="http://www.recode.net/" target="_blank">Recode</a>**
 - **<a href="https://slashdot.org/" target="_blank">Slashdot</a>**
 - **<a href="https://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a>**
