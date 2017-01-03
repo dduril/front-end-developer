@@ -6,11 +6,15 @@
 - **Artificial Intelligence and Machine Learning**
 - **Big Data** - Management, Mining, Warehousing, ETL, OLAP
 - **Cloud Computing** - Amazon Web Services, Azure, Google Cloud Platform
+- **Containerization**
 - **CryptoCurrency** - Bitcoin and Blockchain
 - **DevOps**
 - **Driverless Technology**
 - **Internet of Things (IoT)**
 - **Microservices** - and  service-oriented architectures (SOA)
+- **Mobile**
+- **Robotics and Automation**
+- **Social Media**
 
 ### Popular Blogs and Sites
 
