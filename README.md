@@ -152,6 +152,20 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **<a href="http://jsfiddle.net/" target="_blank" title="jsFiddle">jsFiddle</a>**
 - **<a href="http://plnkr.co/" target="_blank" title="Plunker">Plunker</a>**
 
+### Document Tools
+
+I recently bought a new laptop and opted out of using Microsoft 365, due to the yearly subscription price. Instead, I will be using Google's G Suite exclusively. Listed here are some of those products:
+
+- **<a href="https://gsuite.google.com/" target="_blank">Google G Suite</a>**
+	- **<a href="" target="_blank">Docs</a>**
+	- **<a href="" target="_blank">Sheets</a>**
+	- **<a href="" target="_blank">Forms</a>**
+	- **<a href="" target="_blank">Slides</a>**
+	- **<a href="" target="_blank">Drive</a>**
+- **<a href="https://cloud.google.com/" target="_blank">Google Cloud Platform</a>**
+- **<a href="" target="_blank">Google Developers</a>**
+- **<a href="" target="_blank">Google Maps API</a>**
+
 ### Additional Tools
 
 - **<a href="http://lipis.github.io/bootstrap-social/" target="_blank" title="Bootstrap Social">Bootstrap Social</a>**
