@@ -157,14 +157,14 @@ This list is an on-going project and maintained on a regular basis as new tools 
 I recently bought a new laptop and opted out of using Microsoft 365, due to the yearly subscription price. Instead, I will be using Google's G Suite exclusively. Listed here are some of those products:
 
 - **<a href="https://gsuite.google.com/" target="_blank">Google G Suite</a>**
-	- **<a href="" target="_blank">Docs</a>**
-	- **<a href="" target="_blank">Sheets</a>**
-	- **<a href="" target="_blank">Forms</a>**
-	- **<a href="" target="_blank">Slides</a>**
-	- **<a href="" target="_blank">Drive</a>**
+	- **<a href="https://gsuite.google.com/products/docs/" target="_blank">Docs</a>**
+	- **<a href="https://gsuite.google.com/products/sheets/" target="_blank">Sheets</a>**
+	- **<a href="https://gsuite.google.com/products/forms/" target="_blank">Forms</a>**
+	- **<a href="https://gsuite.google.com/products/slides/" target="_blank">Slides</a>**
+	- **<a href="https://gsuite.google.com/products/drive/" target="_blank">Drive</a>**
 - **<a href="https://cloud.google.com/" target="_blank">Google Cloud Platform</a>**
-- **<a href="" target="_blank">Google Developers</a>**
-- **<a href="" target="_blank">Google Maps API</a>**
+- **<a href="https://developers.google.com/" target="_blank">Google Developers</a>**
+- **<a href="https://developers.google.com/maps/" target="_blank">Google Maps API</a>**
 
 ### Additional Tools
 
