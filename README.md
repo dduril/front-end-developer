@@ -66,7 +66,9 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 - **<a href="http://www.chartjs.org/" target="_blank" title="Chart.js">Chart.js</a>**
 	- **<a href="http://www.chartjs.org/docs/" target="_blank" title="Chart.js">Documentation</a>**
-- **<a href="https://d3js.org/" target="_blank" title="D3.js">D3.js</a>**
+- **<a href="http://square.github.io/crossfilter/" target="_blank" title="Crossfilter">Crossfilter</a>** (Multidimensional Filtering for Coordinated Views)
+- **<a href="https://d3js.org/" target="_blank" title="D3.js">D3.js</a>** (Data-Driven Documents)
+- **<a href="https://dc-js.github.io/dc.js/" target="_blank" title="DC.js">DC.js</a>** (Dimensional Charting)
 - **<a href="https://developers.google.com/chart/" target="_blank" title="Google Charts">Google Charts</a>**
 - **<a href="http://www.highcharts.com/" target="_blank" title="HighCharts">HighCharts</a>**
 
@@ -103,6 +105,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 ### Text Editors and Integrated Development Environments (IDE)
 
 - **<a href="http://www.aptana.com/" target="_blank" title="Aptana Studio">Aptana Studio</a>**
+- **<a href="https://atom.io/" target="_blank" title="Atom">Atom</a>**
 - **<a href="http://brackets.io/" target="_blank" title="Brackets">Brackets</a>**
 - **<a href="http://komodoide.com/" target="_blank">Komodo IDE</a>**
 - **<a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a>**
