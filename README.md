@@ -43,6 +43,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **<a href="http://backbonejs.org/" target="_blank" title="Backbone.js">Backbone.js</a>** (JavaScript framework)
 - **<a href="http://emberjs.com/" target="_blank" title="Ember">Ember</a>** (open-source JavaScript web framework)
 - **<a href="https://www.sencha.com/products/extjs/#overview" target="_blank" title="ExtJS">ExtJS</a>** (JavaScript framework) 
+- **<a href="http://isotope.metafizzy.co/" target="_blank" title="Isotope">Isotope</a>** (Filter and sort layouts)
 - **<a href="http://ionicframework.com/" target="_blank" title="Ionic">Ionic</a>** (mobile app framework)
 - **<a href="https://jquery.com/" target="_blank" title="jQuery">jQuery</a>**
 - **<a href="https://jqueryui.com/" target="_blank" title="jQueryUI">jQueryUI</a>**
