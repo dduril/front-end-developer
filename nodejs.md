@@ -41,6 +41,7 @@ Some popular npm packages:
 - angular
 - bootstrap
 - <a href="http://bower.io/" target="_blank">bower</a>
+- <a href="https://browsersync.io/" target="_blank">browsersync</a>
 - confit
 - enrouten
 - <a href="http://expressjs.com/" target="_blank">express</a>
