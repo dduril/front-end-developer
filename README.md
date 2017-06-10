@@ -8,7 +8,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 ### Environment/Platform
 
-- **<a href="https://nodejs.org/" target="_blank">Node.js</a>**
+- **[Node](https://nodejs.org/)**
 
 ### Basics
 
@@ -49,6 +49,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **<a href="https://jqueryui.com/" target="_blank" title="jQueryUI">jQueryUI</a>**
 - **<a href="http://jquerymobile.com/" target="_blank" title="">jQuery Mobile</a>**
 - **<a href="http://www.telerik.com/kendo-ui" target="_blank" title="Kendo UI">Kendo UI</a>** (framework for modern HTML UI)
+- **[Keystone.js](http://keystonejs.com/)**
 - **<a href="http://knockoutjs.com/" target="_blank" title="Knockout">Knockout</a>** (web framework)
 - **<a href="https://www.meteor.com/" target="_blank" title="Meteor">Meteor</a>** (web framework)
 - **<a href="https://www.polymer-project.org/1.0/" target="_blank" title="Polymer">Polymer</a>** (library)
@@ -172,17 +173,17 @@ I recently bought a new laptop and opted out of using Microsoft 365, due to the 
 
 ### Additional Tools
 
-- **<a href="http://lipis.github.io/bootstrap-social/" target="_blank" title="Bootstrap Social">Bootstrap Social</a>**
-- **<a href="http://emmet.io/" target="_blank" title="Emmet">Emmet</a>** (Text editor plugin to improve web development workflow)
-- **<a href="https://fortawesome.github.io/Font-Awesome/" target="_blank" title="Font Awesome">Font Awesome</a>**
-- **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
-- **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
-- **<a href="https://fonts.google.com/" target="_blank">Google Fonts</a>**
-- **<a href="http://www.json.org/" target="_blank" title="JSON">JSON</a>** (Lightweight data-interchange format)
-- **<a href="https://lodash.com/" target="_blank" title="lodash">lodash</a>** (JavaScript utility library)
-- **<a href="http://daringfireball.net/projects/markdown/" target="_blank" title="Markdown">Markdown</a>** (text to HTML conversion tool)
-- **<a href="https://modernizr.com/" target="_blank" title="Modernizr">Modernizr</a>** (JavaScript toolkit)
-- **<a href="https://necolas.github.io/normalize.css/" target="_blank">Normalize.css</a>** (Makes browsers render all elements consistently and in line with modern standards)
-- **<a href="http://phantomjs.org/" target="_blank">PhantomJS</a>** - (Used for automating web page interaction)
-- **<a href="http://underscorejs.org/" target="_blank" title="Underscore">Underscore</a>** (JavaScript utility library)
+- **[Bootstrap Social](http://lipis.github.io/bootstrap-social/)**
+- **[Emmet](http://emmet.io/)** (Text editor plugin to improve web development workflow)
+- **[Font Awesome](https://fortawesome.github.io/Font-Awesome/)**
+- **[Git](https://git-scm.com/)** (Version Control/Source Code Management)
+- **[Github](https://github.com/)** (web-based Git repository hosting service)
+- **[Google Fonts](https://fonts.google.com/)**
+- **[JSON](http://www.json.org/)** (Lightweight data-interchange format)
+- **[lodash](https://lodash.com/)** (JavaScript utility library)
+- **[Markdown](http://daringfireball.net/projects/markdown/)** (text to HTML conversion tool)
+- **[Modernizr](https://modernizr.com/)** (JavaScript toolkit)
+- **[Normalize.css](https://necolas.github.io/normalize.css/)** (Makes browsers render all elements consistently and in line with modern standards)
+- **[PhantomJS](http://phantomjs.org/)** - (Used for automating web page interaction)
+- **[Underscore](http://underscorejs.org/)** (JavaScript utility library)
 
