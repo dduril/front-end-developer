@@ -23,16 +23,16 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 ### Package Managers
 
-- **[Bower](http://bower.io/) title="Bower"**
-- **[Chocolatey](https://chocolatey.org/) title="Chocolatey"**
-- **[npm](https://www.npmjs.com/) title="npm"** - **[npm Documentation](https://docs.npmjs.com/) title="npm"** 
-- **[Yeoman](http://yeoman.io/) title="Yeoman"**
+- **[Bower](http://bower.io/)**
+- **[Chocolatey](https://chocolatey.org/)**
+- **[npm](https://www.npmjs.com/) title="npm"** - **[npm Documentation](https://docs.npmjs.com/)** 
+- **[Yeoman](http://yeoman.io/)**
 
 ### Build Automation/Task Runners
 
-- **[Broccoli.js](http://broccolijs.com/) title="Broccoli.js"**
-- **[Grunt.js](http://gruntjs.com/) title="Grunt.js"**
-- **[Gulp.js](http://gulpjs.com/) title="Gulp.js"** 
+- **[Broccoli.js](http://broccolijs.com/)**
+- **[Grunt.js](http://gruntjs.com/)**
+- **[Gulp.js](http://gulpjs.com/)** 
 
 ### JavaScript Frameworks/Libraries
 
