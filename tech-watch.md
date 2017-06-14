@@ -5,11 +5,10 @@
 - **Agile and Scrum**
 - **Artificial Intelligence and Machine Learning**
 - **Big Data** - Management, Mining, Warehousing, ETL, OLAP
-- **Cloud Computing** - Amazon Web Services, Azure, Google Cloud Platform
+- **Cloud Computing** - Amazon Web Services, Google Cloud Platform
 - **Containerization**
 - **CryptoCurrency** - Bitcoin and Blockchain
 - **DevOps**
-- **Driverless Technology**
 - **Internet of Things (IoT)**
 - **Microservices** - and  service-oriented architectures (SOA)
 - **Mobile**
@@ -20,23 +19,23 @@
 
 For keeping up to date with news, trends and online tutorials.
 
-- **<a href="http://alistapart.com/" target="_blank">A List Apart</a>**
-- **<a href="https://blog.codinghorror.com/" target="_blank">Coding Horror</a>**
-- **<a href="http://thedailywtf.com/" target="_blank">Daily WTF</a>**
-- **<a href="https://devcenter.heroku.com/" target="_blank">Heroku Dev Center</a>**
-- **<a href="https://www.ibm.com/developerworks/" target="_blank">IBM developerWorks</a>**
-- **<a href="http://lifehacker.com/" target="_blank">Lifehacker</a>**
-- **<a href="https://developer.mozilla.org/en-US/" target="_blank">MDN</a>** - Focus on HTML, CSS, and JavaScript
-- **<a href="https://msdn.microsoft.com/web-app-development-msdn" target="_blank">MSDN</a>**
-- **<a href="https://www.oreilly.com/ideas" target="_blank">O'Reilly Radar</a>**
-	- **<a href="https://www.oreilly.com/learning">Learning</a>**
-	- **<a href="https://www.oreilly.com/topics">Topics</a>**
-- **<a href="http://www.recode.net/" target="_blank">Recode</a>**
-- **<a href="https://slashdot.org/" target="_blank">Slashdot</a>**
-- **<a href="https://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a>**
-- **<a href="http://www.tiobe.com/tiobe-index/" target="_blank">TIOBE Index</a>**
-- **<a href="https://techcrunch.com/" target="_blank">Techcrunch</a>**
-- **<a href="http://www.wired.com/" target="_blank">Wired</a>**
+- **[A List Apart]("http://alistapart.com/)**
+- **[Coding Horror](https://blog.codinghorror.com/)**
+- **[Daily WTF](http://thedailywtf.com/)**
+- **[Heroku Dev Center](https://devcenter.heroku.com/)**
+- **[IBM developerWorks](https://www.ibm.com/developerworks/)**
+- **[Lifehacker](http://lifehacker.com/)**
+- **[MDN](https://developer.mozilla.org/en-US/)** - Focus on HTML, CSS, and JavaScript
+- **[MSDN](https://msdn.microsoft.com/web-app-development-msdn)**
+- **[O'Reilly Radar](https://www.oreilly.com/ideas)**
+	- **[Learning](https://www.oreilly.com/learning)**
+	- **[Topics](https://www.oreilly.com/topics)**
+- **[Recode](http://www.recode.net/)**
+- **[Slashdot](https://slashdot.org/)**
+- **[Smashing Magazine](https://www.smashingmagazine.com/)**
+- **[TIOBE Index](http://www.tiobe.com/tiobe-index/)**
+- **[Techcrunch](https://techcrunch.com/)**
+- **[Wired](http://www.wired.com/)**
 
 The following lists provide insight into what's hot and cutting edge in the high tech world. By skimming online courses being offered and programming/technology books published, you can get a good read on where to focus your time. Additional coming soon sections and upcoming releases can give you a heads up and put new things on your radar.
 
@@ -50,27 +49,29 @@ The following lists provide insight into what's hot and cutting edge in the high
 
 ### Videos
 
-- **<a href="https://gotocon.com/" target="_blank">GOTO; Conferences</a>**
-- **<a href="https://www.ted.com/" target="_blank">Ted Talks</a>**
-- **<a href="https://www.youtube.com/channels/tech" target="_blank">YouTube - Tech Channels</a>**
+- **[GOTO; Conferences](https://gotocon.com/)**
+- **[Ted Talks](https://www.ted.com/)**
+- **[YouTube - Tech Channels](https://www.youtube.com/channels/tech)**
 
 ### Online Learning, Challenges, and MOOCs
 
 These sites are an excellent indicator for where to focus your energies.
 
-- **<a href="https://www.codecademy.com/" target="_blank">Codecademy</a>**
-- **<a href="https://www.codeschool.com/" target="_blank">Code School</a>**
-- **<a href="https://www.coursera.org/" target="_blank">Coursera</a>**
-- **<a href="https://www.edx.org/" target="_blank">edX</a>**
-- **<a href="https://www.hackerrank.com/" target="_blank">HackerRank</a>**
-- **<a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a>**
-- **<a href="https://www.lynda.com/" target="_blank">Lynda.com</a>** - Also known as LinkedIn Learning
-- **<a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>**
-- **<a href="http://online.stanford.edu/" target="_blank">Stanford Online</a>**
-- **<a href="https://teamtreehouse.com/" target="_blank">Treehouse</a>**
-- **<a href="https://www.udacity.com/" target="_blank">Udacity</a>**
-- **<a href="http://extension.berkeley.edu/publicViewHome.do?method=load" target="_blank">UC Berkeley Extension</a>**
-- **<a href="http://www.ucsc-extension.edu/content/engineering-and-technology-2" target="_blank">UCSC Silicon Valley Extension</a>**
+- **[Codecademy](https://www.codecademy.com/)**
+- **[Code School](https://www.codeschool.com/)**
+- **[Coursera](https://www.coursera.org/)**
+- **[DataCamp](https://www.datacamp.com/)**
+- **[Dataquest](https://www.dataquest.io/)**
+- **[edX](https://www.edx.org/)**
+- **[HackerRank](https://www.hackerrank.com/)**
+- **[Khan Academy](https://www.khanacademy.org/)**
+- **[Lynda.com](https://www.lynda.com/)** - Also known as LinkedIn Learning
+- **[Pluralsight](https://www.pluralsight.com/)**
+- **[Stanford Online](http://online.stanford.edu/)**
+- **[Treehouse](https://teamtreehouse.com/)**
+- **[Udacity](https://www.udacity.com/)**
+- **[UC Berkeley Extension](http://extension.berkeley.edu/publicViewHome.do?method=load)**
+- **[UCSC Silicon Valley Extension](http://www.ucsc-extension.edu/content/engineering-and-technology-2)**
 
 ### Technology Book Publishers
 
