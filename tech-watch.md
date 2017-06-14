@@ -76,12 +76,12 @@ These sites are an excellent indicator for where to focus your energies.
 
 What's being published is also an excellent indicator of what's hot and trending.
 
-- **<a href="http://www.informit.com/" target="_blank">Addison Wesley</a>**
-- **<a href="https://www.apress.com/" target="_blank">Apress</a>**
-- **<a href="https://leanpub.com/" target="_blank">Leanpub</a>** (Good and affordable books, variety of topics)
-- **<a href="https://www.manning.com/" target="_blank">Manning</a>**
-- **<a href="https://www.murach.com/" target="_blank">Murach</a>** - Good for .NET and SQL Server
-- **<a href="http://www.oreilly.com/" target="_blank">O'Reilly</a>** - Technical and on point
-- **<a href="https://www.packtpub.com/" target="_blank">Packt Publishing</a>** - Tons of publishings
-- **<a href="https://www.syncfusion.com/resources/techportal/ebooks" target="_blank">Syncfusion Succinctly e-books</a>** (Great collection of free e-books)
-- **<a href="http://www.wrox.com/WileyCDA/" target="_blank">Wrox</a>**
+- **[Addison Wesley](http://www.informit.com/)**
+- **[Apress](https://www.apress.com/)**
+- **[Leanpub](https://leanpub.com/)** (Good and affordable books, variety of topics)
+- **[Manning](https://www.manning.com/)**
+- **[Murach](https://www.murach.com/)** - Good for .NET and SQL Server
+- **[O'Reilly](http://www.oreilly.com/)** - Technical and on point
+- **[Packt Publishing](https://www.packtpub.com/)** - Tons of publishings
+- **[Syncfusion Succinctly e-books](https://www.syncfusion.com/resources/techportal/ebooks)** (Great collection of FREE e-books)
+- **[Wrox](http://www.wrox.com/WileyCDA/)**
