@@ -61,6 +61,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Foundation](http://foundation.zurb.com/)**
 - **[Pure](http://purecss.io/)**
 - **[Semantic UI](http://semantic-ui.com/)**
+- **[Shoelace.css](https://shoelace.style/)**
 - **[Skeleton](http://getskeleton.com/)**
 - **[uikit](http://getuikit.com/)**
     
