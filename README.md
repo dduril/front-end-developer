@@ -41,7 +41,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Aurelia](http://aurelia.io/)** (JavaScript framework)
 - **[Babel](https://babeljs.io/)** (JavaScript compiler)
 - **[Backbone.js](http://backbonejs.org/)** (JavaScript framework)
-- **[Ember](http://emberjs.com/)** (open-source JavaScript web framework)
+- **[Ember.js](http://emberjs.com/)** (open-source JavaScript web framework)
 - **[ExtJS](https://www.sencha.com/products/extjs/#overview)** (JavaScript framework) 
 - **[Isotope](http://isotope.metafizzy.co/)** (Filter and sort layouts)
 - **[Ionic](http://ionicframework.com/)** (mobile app framework)
@@ -51,19 +51,18 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Kendo UI](http://www.telerik.com/kendo-ui)** (framework for modern HTML UI)
 - **[Keystone.js](http://keystonejs.com/)**
 - **[Knockout](http://knockoutjs.com/)** (web framework)
-- **[Meteor](https://www.meteor.com/)** (web framework)
+- **[Meteor.js](https://www.meteor.com/)** (web framework)
 - **[Polymer](https://www.polymer-project.org/1.0/)** (library)
-- **[React](https://facebook.github.io/react/)** (JavaScript library)
+- **[ReactJS](https://facebook.github.io/react/)** (JavaScript library)
+- **[Vue.js](https://vuejs.org/)** (JavaScript framework)
 
 ### Front-end CSS Frameworks
 
 - **[Bootstrap](http://getbootstrap.com/)**
 - **[Foundation](http://foundation.zurb.com/)**
-- **[Pure](http://purecss.io/)**
 - **[Semantic UI](http://semantic-ui.com/)**
 - **[Shoelace.css](https://shoelace.style/)**
 - **[Skeleton](http://getskeleton.com/)**
-- **[uikit](http://getuikit.com/)**
     
 ### Front-end Libraries - Data Visualization
 
