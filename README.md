@@ -110,7 +110,8 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Atom](https://atom.io/)**
 - **[Brackets](http://brackets.io/)**
 - **[Cloud9](https://c9.io/)**
-- **[Komodo IDE](http://komodoide.com/)**
+- **[Komodo Edit](https://www.activestate.com/komodo-edit)** (Free)
+- **[Komodo IDE](http://komodoide.com/)** (Fee)
 - **[Notepad++](https://notepad-plus-plus.org/)**
 - **[Sublime Text](http://www.sublimetext.com/)**
 - **[Visual Studio Code](https://code.visualstudio.com/)**
