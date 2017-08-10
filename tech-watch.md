@@ -41,11 +41,14 @@ The following lists provide insight into what's hot and cutting edge in the high
 
 ### Books - from my reading list
 
+- **Grit** *The Power of Passion and Perseverance* (2016)
 - **Only Humans Need Apply:** *Winners and Losers in the Age of Smart Machines* (2016)
-- **The Age of Cryptocurrency:** *How Bitcoin and the Blockchain are Challenging the Global Economic Order* (2015)
 - **Rise of the Robots:** *Technology and the Threat of a Jobless Future* (2015)
+- **TED Talks** *The Official TED Guide to Public Speaking* (2016)
+- **The Age of Cryptocurrency:** *How Bitcoin and the Blockchain are Challenging the Global Economic Order* (2015)
 - **The Inevitable:** *Understanding the 12 Technological Forces That Will Shape Our Future* (2016)
 - **Thank You for Being Late:** *An Optimist's Guide to Thriving in the Age of Accelerations* (2016)
+- **Thinking, Fast and Slow** (2011)
 
 ### Videos
 
@@ -79,10 +82,10 @@ What's being published is also an excellent indicator of what's hot and trending
 
 - **[Addison Wesley](http://www.informit.com/)**
 - **[Apress](https://www.apress.com/)**
-- **[Leanpub](https://leanpub.com/)** (Good and affordable books, variety of topics)
-- **[Manning](https://www.manning.com/)**
-- **[Murach](https://www.murach.com/)** - Good for .NET and SQL Server
+- **[Leanpub](https://leanpub.com/)** - Good and affordable books, variety of topics
+- **[Manning](https://www.manning.com/)** - Great selection
+- **[Murach](https://www.murach.com/)** - Excellent ASP.NET, Java and Python tutorials
 - **[O'Reilly](http://www.oreilly.com/)** - Technical and on point
 - **[Packt Publishing](https://www.packtpub.com/)** - Tons of publishings
-- **[Syncfusion Succinctly e-books](https://www.syncfusion.com/resources/techportal/ebooks)** (Great collection of FREE e-books)
+- **[Syncfusion Succinctly e-books](https://www.syncfusion.com/resources/techportal/ebooks)** - Great collection of FREE e-books
 - **[Wrox](http://www.wrox.com/WileyCDA/)**
