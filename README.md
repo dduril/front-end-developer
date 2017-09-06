@@ -160,6 +160,14 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Plunker](http://plnkr.co/)**
 - **[repl.it](https://repl.it/)**
 
+### Blogging Platforms
+
+- **[Ghost](https://ghost.org/)**
+- **[Jekyll](https://jekyllrb.com/)**
+- **[Medium](https://medium.com/)**
+- **[WordPress](https://wordpress.org/)**
+
+
 ### Document Tools
 
 I recently bought a new laptop and opted out of using Microsoft 365, due to the yearly subscription price. Instead, I will be using Google's G Suite exclusively. Listed here are some of those products:
@@ -173,6 +181,8 @@ I recently bought a new laptop and opted out of using Microsoft 365, due to the 
 - **[Google Cloud Platform](https://cloud.google.com/)**
 - **[Google Developers](https://developers.google.com/)**
 - **[Google Maps API](https://developers.google.com/maps/)**
+
+---
 
 ### Additional Tools
 
