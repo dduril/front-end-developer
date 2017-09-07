@@ -95,6 +95,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 ### Module Bundlers/Loaders
 - **[Browserify](http://browserify.org/)**
 - **[RequireJS](http://requirejs.org/)**
+- **[Rollup](https://rollupjs.org/)**
 - **[SystemJS](https://github.com/systemjs/builder)**
 - **[Webpack](https://webpack.github.io/)**
 
