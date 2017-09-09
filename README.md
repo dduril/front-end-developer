@@ -25,7 +25,9 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 - **[Bower](http://bower.io/)**
 - **[Chocolatey](https://chocolatey.org/)**
-- **[npm](https://www.npmjs.com/)** - **[npm Documentation](https://docs.npmjs.com/)** 
+- **[npm](https://www.npmjs.com/)** 
+	- **[Documentation](https://docs.npmjs.com/)** 
+- **[Yarn](https://yarnpkg.com/)**
 - **[Yeoman](http://yeoman.io/)**
 
 ### Build Automation/Task Runners
