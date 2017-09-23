@@ -3,7 +3,7 @@
 ### Getting Started
 
 - **[Ember.js](https://emberjs.com/)** - main site
-- **Installation**
+- **Installation Methods**
 	- NPM
 	- CLI
 

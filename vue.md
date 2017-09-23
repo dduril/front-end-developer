@@ -3,7 +3,7 @@
 ### Getting Started
 
 - **[Vue.js](https://vuejs.org/)** - main site
-- **Installation**
+- **Installation Methods**
 	- Use a CDN
 	- NPM
 	- CLI
