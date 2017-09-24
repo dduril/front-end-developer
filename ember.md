@@ -13,6 +13,8 @@
 
 ### Create a New Application
 
+Change to development directory: **C:\development\ember-projects**
+
 	> ember new ember-quickstart
 
 ### Change directory to _ember-quickstart_ and start the development server:

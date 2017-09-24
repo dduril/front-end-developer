@@ -14,6 +14,8 @@
 
 ### Create a directory and change into it:
 
+Change to development directory: **C:\development\vue-projects**
+
 	> vue init webpack my-project
 	> cd my-project
 
