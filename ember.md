@@ -7,8 +7,6 @@
 	- NPM
 	- CLI
 
-## Basic Example
-
 ### Install Ember
 
 	> npm install -g ember-cli@2.15

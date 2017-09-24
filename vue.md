@@ -8,23 +8,21 @@
 	- NPM
 	- CLI
 
-### Basic Example
-
-Install Vue.js
+### Install Vue.js
 
 	> npm install -g vue-cli
 
-Create a directory and change into it:
+### Create a directory and change into it:
 
 	> vue init webpack my-project
 	> cd my-project
 
-Install dependencies and launch server:
+### Install dependencies and launch server:
 
 	> npm install
 	> npm run dev
 
-Browser will open or open browser of choice:
+### Browser will open or open browser of choice:
 
 	http://localhost:8080
 
