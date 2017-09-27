@@ -167,8 +167,9 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 - **[Ghost](https://ghost.org/)**
 - **[Jekyll](https://jekyllrb.com/)**
-- **[Medium](https://medium.com/)**
-- **[WordPress](https://wordpress.org/)**
+- **[Medium](https://medium.com/)** (Combines blogging and social media)
+- **[WordPress.com](https://wordpress.com/)** (Cloud-hosted)
+- **[WordPress.org](https://wordpress.org/)** (Self-supported)
 
 
 ### Document Tools
