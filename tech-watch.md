@@ -37,8 +37,6 @@ For keeping up to date with news, trends and online tutorials.
 - **[Techcrunch](https://techcrunch.com/)**
 - **[Wired](http://www.wired.com/)**
 
-The following lists provide insight into what's hot and cutting edge in the high tech world. By skimming online courses being offered and programming/technology books published, you can get a good read on where to focus your time. Additional coming soon sections and upcoming releases can give you a heads up and put new things on your radar.
-
 ### Books - from my reading list
 
 - **Grit** *The Power of Passion and Perseverance* (2016)
@@ -49,6 +47,20 @@ The following lists provide insight into what's hot and cutting edge in the high
 - **The Inevitable:** *Understanding the 12 Technological Forces That Will Shape Our Future* (2016)
 - **Thank You for Being Late:** *An Optimist's Guide to Thriving in the Age of Accelerations* (2016)
 - **Thinking, Fast and Slow** (2011)
+
+I recently began reading through some Business/Self-Help style books by Adam Grant:
+
+- Originals (2016)
+- Give and Take (2013)
+
+and Chris Guillebeau:
+
+- Born for This (2016)
+- The Happiness of Pursuit (2014)
+- The $100 Startup (2012)
+- The Art of Non-Conformity (2010)
+
+These are quick reads and have excellent anecdotal stories and ideas for starting a small business or improving personal processes.
 
 ### Videos
 
