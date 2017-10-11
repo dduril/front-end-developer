@@ -8,7 +8,7 @@
 	- NPM
 	- CLI
 
-#### Install Vue.js
+#### Installing Vue CLI
 
 	> npm install -g vue-cli
 
