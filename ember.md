@@ -1,32 +1,38 @@
 # Ember.js
 
-### Getting Started
+#### Getting Started
 
 - **[Ember.js](https://emberjs.com/)** - main site
 - **Installation Methods**
 	- NPM
 	- CLI
 
-### Install Ember
+#### Installing Ember CLI
 
 	> npm install -g ember-cli@2.15
 
-### Create a New Application
+#### Create a New Application
 
 Change to development directory: **C:\development\ember-projects**
 
 	> ember new ember-quickstart
 
-### Change directory to _ember-quickstart_ and start the development server:
+#### Change directory to _ember-quickstart_ and start the development server:
 
 	> cd ember-quickstart
 	> ember serve
 
-### Open Browser:
+#### Browser will open or open your browser of choice:
 
 	http://localhost:4200
 
-### Define Routes
+<br>
+---
+<br>
+After setting up the initial application, the tutorial continues and demonstrates how to define routes, add UI components and click events and how to build and package your application.
+ 
+
+#### Define Routes
 
 	> ember generate route scientists
 	> ember generate route programmers
@@ -69,7 +75,7 @@ Change to development directory: **C:\development\ember-projects**
     	}
 	});
 
-### Create a UI Component with Click Event
+#### Create a UI Component with Click Event
 
 	> ember generate component people-list
 
@@ -95,7 +101,7 @@ Change to development directory: **C:\development\ember-projects**
     	}
 	});
 
-### Build Application for Production
+#### Build Application for Production
 
 	> ember build --env production
 

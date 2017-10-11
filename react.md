@@ -1,6 +1,6 @@
 # React
 
-### Facebook Projects
+#### Facebook Projects
 
 - **[Facebook Open Source Projects](https://code.facebook.com/projects/)**
 - **[React](https://facebook.github.io/react/)** (JavaScript library)
@@ -9,7 +9,7 @@
 - **[Jest](https://facebook.github.io/jest/)** (JavaScript testing framework)
 - **[Yarn](https://yarnpkg.com/)** (Package manager)
 
-### Basic Example
+#### Basic Example
 
 	<!DOCTYPE html>
 	<html lang="en">
@@ -36,7 +36,7 @@
     </body>
 	</html>
 
-### Basic Example using Bootstrap
+#### Basic Example using Bootstrap
 
 	<!DOCTYPE html>
 	<html lang="en">
@@ -72,7 +72,7 @@
 	    </body>
 	</html>
 
-### Using Bootstrap and Separate JS File
+#### Using Bootstrap and Separate JS File
 
 **index.html**
 

@@ -8,7 +8,9 @@
 
 The documentation contains some excellent tutorials for getting started with Angular applications development using TypeScript, JavaScript or Dart.
 
-### Basic Example
+Here are a few basic examples making use of CDN for Angular.
+
+#### Basic Example
 
 	<!doctype html>
 	<html lang="en" ng-app>
@@ -29,7 +31,7 @@ The documentation contains some excellent tutorials for getting started with Ang
 	</body>
 	</html>
 
-### Basic Example using Bootstrap
+#### Basic Example using Bootstrap
 
 	<!doctype html>
 	<html lang="en" ng-app>
