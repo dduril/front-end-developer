@@ -42,6 +42,11 @@ Most of these links can be accessed from the main **<a href="https://www.microso
 		- <a href="https://www.jetbrains.com/resharper/" target="_blank">ReSharper</a> - JetBrains
 		- <a href="http://vswebessentials.com/" target="_blank">Web Essentials</a> - Microsoft
 
+### .NET IDEs
+
+- **[JetBrains Rider](https://www.jetbrains.com/rider/features/)**
+
+
 ### Web Development Essentials
 
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">HTML</a>**
@@ -58,6 +63,7 @@ Most of these links can be accessed from the main **<a href="https://www.microso
 - **<a href="http://www.infragistics.com/" target="_blank">Infragistics</a>**
 - **<a href="https://www.syncfusion.com/" target="_blank">Syncfusion</a>**
 - **<a href="http://www.telerik.com/" target="_blank">Telerik</a>**
+- **[TextControl](https://www.textcontrol.com/)**
 - **<a href="https://www.xamarin.com/" target="_blank">Xamarin</a>**
 
 ### Additional Tools
