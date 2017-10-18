@@ -151,9 +151,13 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 ### Google Projects
 
-- **[Google fonts](https://fonts.google.com/)**
+- **[Google Fonts](https://fonts.google.com/)**
+- **[Lighthouse](https://developers.google.com/web/tools/lighthouse/)**
+- **[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)**
+- **[Web](https://developers.google.com/web/)** (Home page for building next-generation web applications)
+- **[Workbox](https://developers.google.com/web/tools/workbox/)**
 - **[Material](https://material.google.com/#introduction-principles)**
-- **[Material icons](https://design.google.com/icons/)**
+- **[Material Icons](https://design.google.com/icons/)**
 
 ### Online Coding Environments
 
