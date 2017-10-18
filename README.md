@@ -196,6 +196,7 @@ I recently bought a new laptop and opted out of using Microsoft 365, due to the 
 
 - **[Bootstrap Social](http://lipis.github.io/bootstrap-social/)**
 - **[Emmet](http://emmet.io/)** (Text editor plugin to improve web development workflow)
+- **[Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)** (Complex, flexible layouts)
 - **[Font Awesome](https://fortawesome.github.io/Font-Awesome/)**
 - **[Git](https://git-scm.com/)** (Version Control/Source Code Management)
 - **[Github](https://github.com/)** (web-based Git repository hosting service)
