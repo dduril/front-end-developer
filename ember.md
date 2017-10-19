@@ -33,6 +33,10 @@ After changing to the development directory: **C:\development\ember-projects**
 
 	http://localhost:4200
 
+#### Check Ember-CLI version
+
+	> ember -v
+
 <br>
 ---
 <br>
