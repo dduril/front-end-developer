@@ -14,7 +14,12 @@
 
 #### Create a directory and cd into it:
 
-Change to development directory: **C:\development\vue-projects**
+	> cd \development
+	> mkdir vue-projects
+
+#### Create a New Application
+
+After changing to the development directory: **C:\development\vue-projects**
 
 	> vue init webpack my-project
 	> cd my-project

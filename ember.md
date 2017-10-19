@@ -11,9 +11,14 @@
 
 	> npm install -g ember-cli@2.15
 
+#### Create a directory and cd into it:
+
+	> cd \development
+	> mkdir ember-projects
+
 #### Create a New Application
 
-Change to development directory: **C:\development\ember-projects**
+After changing to the development directory: **C:\development\ember-projects**
 
 	> ember new ember-quickstart
 
