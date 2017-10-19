@@ -37,9 +37,10 @@ After changing to the development directory: **C:\development\ember-projects**
 
 	> ember -v
 
-<br>
 ---
-<br>
+
+### Building ember-quickstart 
+
 After setting up the initial application, the tutorial continues and demonstrates how to define routes, add UI components and click events and how to build and package your application.
  
 
