@@ -12,10 +12,12 @@
 
 	> npm install -g vue-cli
 
-#### Create a directory and cd into it:
+#### Working from a folder named _development_ located at root:
 
 	> cd \development
 	> mkdir vue-projects
+
+The directory **vue-projects** will hold off the the Vue.js projects.
 
 #### Create a New Application
 

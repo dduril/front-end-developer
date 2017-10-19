@@ -11,10 +11,12 @@
 
 	> npm install -g ember-cli@2.15
 
-#### Create a directory and cd into it:
+#### Working from a folder named _development_ located at root:
 
 	> cd \development
 	> mkdir ember-projects
+
+The directory **ember-projects** will hold off the the Ember.js projects.
 
 #### Create a New Application
 
