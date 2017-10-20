@@ -2,7 +2,9 @@
 
 #### Getting Started
 
-- **[Ember.js](https://emberjs.com/)** - main site
+- **[Ember.js](https://emberjs.com/)** - Main site
+- **[Ember CLI](https://ember-cli.com/)**
+- **[Ember Observer](https://emberobserver.com/)** - Ember CLI addons
 - **Installation Methods**
 	- NPM
 	- CLI
