@@ -1,6 +1,6 @@
 # Ember.js
 
-#### Getting Started
+#### Resources
 
 - **[Ember.js](https://emberjs.com/)** - Main site
 - **[Ember CLI](https://ember-cli.com/)** - Ember Command Line Interface
