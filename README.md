@@ -75,6 +75,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[DC.js](https://dc-js.github.io/dc.js/)** (Dimensional Charting)
 - **[Google Charts](https://developers.google.com/chart/)**
 - **[HighCharts](http://www.highcharts.com/)**
+- **[Taucharts ](https://blog.taucharts.com/taucharts-one/)** (JavaScript Charting Library)
 
 ### Front-end Libraries - Mapping
 
