@@ -5,6 +5,7 @@
 - **[Ember.js](https://emberjs.com/)** - Main site
 - **[Ember CLI](https://ember-cli.com/)** - Ember Command Line Interface
 - **[Ember Observer](https://emberobserver.com/)** - Ember CLI addons
+- **[Ember Twiddle](https://ember-twiddle.com/)** - Web-based code sharing tool for Ember.js 
 - **Installation Methods**
 	- NPM
 	- CLI
