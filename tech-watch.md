@@ -3,10 +3,10 @@
 ### Major Topic Areas
 
 - **Agile and Scrum**
-- **Artificial Intelligence and Machine Learning**
+- **Artificial Intelligence** - Deep Learning, Machine Learning
 - **Big Data** - Management, Mining, Warehousing, ETL, OLAP
-- **Cloud Computing** - Amazon Web Services, Google Cloud Platform
-- **Containerization**
+- **Cloud Computing** - Amazon Web Services, Google Cloud Platform, Microsoft Azure
+- **Containerization** - Docker
 - **CryptoCurrency** - Bitcoin and Blockchain
 - **DevOps**
 - **Internet of Things (IoT)**
@@ -72,6 +72,7 @@ These are quick reads and have excellent anecdotal stories and ideas for startin
 
 These sites are an excellent indicator for where to focus your energies.
 
+- **[CBT Nuggets](https://www.cbtnuggets.com/)**
 - **[Codecademy](https://www.codecademy.com/)**
 - **[Code School](https://www.codeschool.com/)**
 - **[Coursera](https://www.coursera.org/)**

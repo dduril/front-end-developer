@@ -9,6 +9,12 @@ After continued reading, **DevOps** appears to combine the talents of system, ne
 An excellent resource can be found here:
 **<a href="https://xebialabs.com/periodic-table-of-devops-tools/">XebiaLabs - Periodic Table of DevOps Tools</a>** 
 
+More great resources from XebiaLabs:
+
+- **[DevOps Glossary](https://xebialabs.com/glossary/)**
+- **[DevOps Tool Chest](https://xebialabs.com/the-ultimate-devops-tool-chest/)**
+- **[Ultimate List of Containerization Tools](https://xebialabs.com/the-ultimate-devops-tool-chest/containerization/)**
+
 ### What is DevOps?
 
 Great article here: <a href="https://www.linkedin.com/pulse/essential-devops-skills-thomas-theakanath">Essential DevOps Skills</a>
