@@ -37,7 +37,7 @@ For keeping up to date with news, trends and online tutorials.
 - **[Techcrunch](https://techcrunch.com/)**
 - **[Wired](http://www.wired.com/)**
 
-### Books - from my reading list
+### Some Recent Books I Have Enjoyed
 
 - **Grit** *The Power of Passion and Perseverance* (2016)
 - **Only Humans Need Apply:** *Winners and Losers in the Age of Smart Machines* (2016)
@@ -48,19 +48,19 @@ For keeping up to date with news, trends and online tutorials.
 - **Thank You for Being Late:** *An Optimist's Guide to Thriving in the Age of Accelerations* (2016)
 - **Thinking, Fast and Slow** (2011)
 
-I recently began reading through some Business/Self-Help style books by Adam Grant:
+I recently began reading a few business/self-help books written by Adam Grant:
 
-- Originals (2016)
-- Give and Take (2013)
+- **Originals** (2016)
+- **Give and Take** (2013)
 
-and Chris Guillebeau:
+and also Chris Guillebeau:
 
-- Born for This (2016)
-- The Happiness of Pursuit (2014)
-- The $100 Startup (2012)
-- The Art of Non-Conformity (2010)
+- **Born for This** (2016)
+- **The Happiness of Pursuit** (2014)
+- **The $100 Startup** (2012)
+- **The Art of Non-Conformity** (2010)
 
-These are quick reads and have excellent anecdotal stories and ideas for starting a small business or improving personal processes.
+These are quick reads with interesting and motivational stories for self-improvement and great ideas for starting a small business.
 
 ### Videos
 
@@ -100,5 +100,8 @@ What's being published is also an excellent indicator of what's hot and trending
 - **[Murach](https://www.murach.com/)** - Excellent ASP.NET, Java and Python tutorials
 - **[O'Reilly](http://www.oreilly.com/)** - Technical and on point
 - **[Packt Publishing](https://www.packtpub.com/)** - Tons of publishings
-- **[Syncfusion Succinctly e-books](https://www.syncfusion.com/resources/techportal/ebooks)** - Great collection of FREE e-books
 - **[Wrox](http://www.wrox.com/WileyCDA/)**
+
+### E-Books (Free)
+
+- **[Syncfusion Succinctly e-books](https://www.syncfusion.com/resources/techportal/ebooks)** - Great collection of FREE e-books
