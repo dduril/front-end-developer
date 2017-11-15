@@ -152,17 +152,19 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 ### Google Projects
 
+- **[Codelabs](https://codelabs.developers.google.com/)** (Guided hands-on coding tutorials)
 - **[Google Fonts](https://fonts.google.com/)**
-- **[Lighthouse](https://developers.google.com/web/tools/lighthouse/)**
-- **[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)**
-- **[Web](https://developers.google.com/web/)** (Home page for building next-generation web applications)
-- **[Workbox](https://developers.google.com/web/tools/workbox/)**
+- **[Lighthouse](https://developers.google.com/web/tools/lighthouse/)** (Automated tool for auditing websites)
 - **[Material](https://material.google.com/#introduction-principles)**
 - **[Material Icons](https://design.google.com/icons/)**
+- **[Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)**
+- **[Web](https://developers.google.com/web/)** (Home page for building next-generation web applications)
+- **[Workbox](https://developers.google.com/web/tools/workbox/)** (Tools for making site work offline)
 
 ### Online Coding Environments
 
 - **[CodePen](http://codepen.io/)**
+- **[Glitch](https://glitch.com/)**
 - **[JS Bin](http://jsbin.com/?html,output)**
 - **[jsFiddle](http://jsfiddle.net/)**
 - **[Plunker](http://plnkr.co/)**
