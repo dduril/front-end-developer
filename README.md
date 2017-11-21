@@ -6,11 +6,11 @@ Being a front end or full stack developer continues to evolve on a daily basis a
 
 This list is an on-going project and maintained on a regular basis as new tools and frameworks are released.
 
-### Environment/Platform
+### Environment/Platforms
 
 - **[Node](https://nodejs.org/)**
 
-### Basics
+### Basics (Mostly Mozilla Developer Network)
 
 - **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**
 - **[HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)**
@@ -90,12 +90,14 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Stylus](https://learnboost.github.io/stylus/)**
 
 ### Template Systems
+
 - **[Dust](http://www.dustjs.com/)**
 - **[Handlebars](http://handlebarsjs.com/)**
 - **[jQuery Templates](http://codepb.github.io/jquery-template/)**
 - **[Mustache](https://mustache.github.io/)**
 
 ### Module Bundlers/Loaders
+
 - **[Browserify](http://browserify.org/)**
 - **[RequireJS](http://requirejs.org/)**
 - **[Rollup](https://rollupjs.org/)**
@@ -139,16 +141,16 @@ This list is an on-going project and maintained on a regular basis as new tools 
 ### ECMAScript
 
 - **[ECMAScript 6](http://es6-features.org/)** (ES6)
-- **[Wikipedia Page](https://en.wikipedia.org/wiki/ECMAScript)** (Overall background and progress) 
+- **[Wikipedia Page](https://en.wikipedia.org/wiki/ECMAScript)** (Background and development progress) 
 
 ### Facebook Projects
 
 - **[Facebook Open Source](https://code.facebook.com/projects/)**
-- **[React](https://facebook.github.io/react/)** (JavaScript library)
-- **[React Native](https://facebook.github.io/react-native/)** (Native Mobile Apps)
-- **[Flux](https://facebook.github.io/flux/)** (Application architecture)
-- **[Jest](https://facebook.github.io/jest/)** (JavaScript testing framework)
-- **[Yarn](https://yarnpkg.com/)** (Package manager)
+	- **[React](https://facebook.github.io/react/)** (JavaScript library)
+	- **[React Native](https://facebook.github.io/react-native/)** (Native Mobile Apps)
+	- **[Flux](https://facebook.github.io/flux/)** (Application architecture)
+	- **[Jest](https://facebook.github.io/jest/)** (JavaScript testing framework)
+	- **[Yarn](https://yarnpkg.com/)** (Package manager)
 
 ### Google Projects
 
@@ -179,7 +181,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[WordPress.org](https://wordpress.org/)** (Self-supported)
 
 
-### Document Tools
+### Cloud Document Software
 
 I recently bought a new laptop and opted out of using Microsoft 365, due to the yearly subscription price. Instead, I will be using Google's G Suite exclusively. Listed here are some of those products:
 
@@ -195,7 +197,7 @@ I recently bought a new laptop and opted out of using Microsoft 365, due to the 
 
 ---
 
-### Additional Tools
+### Additional Libraries/Tools
 
 - **[Bootstrap Social](http://lipis.github.io/bootstrap-social/)**
 - **[Emmet](http://emmet.io/)** (Text editor plugin to improve web development workflow)
