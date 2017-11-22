@@ -12,7 +12,7 @@ Short demo projects using AngularJS and Bootstrap.
           +-- js
               |-- bootstrap.min.js
 
-![Getting Started](/screen-shots/angular-getting-started.jpg?raw=true "Getting Started")
+![Getting Started](/front-end-developer/screen-shots/angular-getting-started.png?raw=true "Getting Started")
 
 **movies.html**
 
