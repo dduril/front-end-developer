@@ -2,7 +2,9 @@
 
 Short demo projects using AngularJS and Bootstrap.
 
-**index.html**
+#### Angular Getting Started
+
+![Getting Started](/screen-shots/angular-getting-started.png "Getting Started")
 
 	index.html
 	  +-- dist
@@ -12,9 +14,11 @@ Short demo projects using AngularJS and Bootstrap.
           +-- js
               |-- bootstrap.min.js
 
-![Getting Started](/screen-shots/angular-getting-started.png "Getting Started")
 
-**movies.html**
+
+#### Movies
+
+![Movie List Example](/screen-shots/angular-movies.png "Movie List Example")
 
 	movies.html
 	  +-- dist
@@ -27,7 +31,9 @@ Short demo projects using AngularJS and Bootstrap.
       +-- js
           |-- movieControllersService.js
 
-**movies_service.html**
+#### Movie Service
+
+![Movie Service Example](/screen-shots/angular-movie-service.png "Movie Service Example")
 
 	movies_service.html
       +-- data
@@ -42,7 +48,9 @@ Short demo projects using AngularJS and Bootstrap.
       +-- js
           |-- movieControllers.js
 
-**basic\_module\_example.html**
+#### Module Example
+
+![Angular Module Example](/screen-shots/angular-module.png "Angular Module Example")
 
 	basic_module_example.html
 	  +-- dist
@@ -54,7 +62,9 @@ Short demo projects using AngularJS and Bootstrap.
       +-- js
           |-- controllers.js
 
-**basic\_mvc\_example.html**
+#### MVC Example
+
+![Angular MVC Example](/screen-shots/angular-mvc.png "Angular MVC Example")
 
 	basic_mvc_example.html
 	  +-- dist
