@@ -1,8 +1,6 @@
 # AngularJS 
 
-Demo projects using AngularJS and Bootstrap.
-
-Dependency guides.
+Short demo projects using AngularJS and Bootstrap.
 
 **index.html**
 
@@ -13,6 +11,8 @@ Dependency guides.
               |-- bootstrap-theme.min.css
           +-- js
               |-- bootstrap.min.js
+
+![Getting Started](/screen-shots/angular-getting-started.jpg?raw=true "Getting Started")
 
 **movies.html**
 
