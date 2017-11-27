@@ -174,12 +174,22 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 ### Blogging Platforms
 
+- **[Blogger](https://www.blogger.com/)**
 - **[Ghost](https://ghost.org/)**
 - **[Jekyll](https://jekyllrb.com/)**
 - **[Medium](https://medium.com/)** (Combines blogging and social media)
 - **[WordPress.com](https://wordpress.com/)** (Cloud-hosted)
 - **[WordPress.org](https://wordpress.org/)** (Self-supported)
 
+### Web Publishing Solutions
+
+- **[Drupal](https://www.drupal.org/)**
+- **[GitHub Pages](https://pages.github.com/)**
+- **[Joomla](https://www.joomla.org/)**
+- **[Squarespace](https://www.squarespace.com/)**
+- **[Weebly](https://www.weebly.com/)**
+- **[Wix](https://www.wix.com/)**
+- **[WordPress](https://wordpress.com/)**
 
 ### Cloud Document Software
 
