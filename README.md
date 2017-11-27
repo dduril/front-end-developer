@@ -191,6 +191,14 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Wix](https://www.wix.com/)**
 - **[WordPress](https://wordpress.com/)**
 
+### Development Methodology and Tools - Atlassian
+
+- **[Recommended reading](https://www.atlassian.com/)**
+- **[Agile development](https://www.atlassian.com/agile/developer)**
+- **[Git tutorials](https://www.atlassian.com/git/tutorials)** - [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+- **[Service management](https://www.atlassian.com/it-unplugged/itsm/best-practices-service-req-mgmt)** - [Hot to get started](https://www.atlassian.com/continuous-delivery/how-to-get-to-continuous-integration)
+- **[Continuous delivery](https://www.atlassian.com/continuous-delivery)** - [Get Started](https://www.atlassian.com/continuous-delivery/how-to-get-to-continuous-integration)
+
 ### Cloud Document Software
 
 I recently bought a new laptop and opted out of using Microsoft 365, due to the yearly subscription price. Instead, I will be using Google's G Suite exclusively. Listed here are some of those products:
