@@ -199,9 +199,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Service management](https://www.atlassian.com/it-unplugged/itsm/best-practices-service-req-mgmt)** - [Hot to get started](https://www.atlassian.com/continuous-delivery/how-to-get-to-continuous-integration)
 - **[Continuous delivery](https://www.atlassian.com/continuous-delivery)** - [Get Started](https://www.atlassian.com/continuous-delivery/how-to-get-to-continuous-integration)
 
-### Cloud Document Software
-
-I recently bought a new laptop and opted out of using Microsoft 365, due to the yearly subscription price. Instead, I will be using Google's G Suite exclusively. Listed here are some of those products:
+### Cloud Document Software - Google
 
 - **[Google G Suite](https://gsuite.google.com/)**
 	- **[Docs](https://gsuite.google.com/products/docs/)**
