@@ -20,6 +20,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Google Developers](https://developers.google.com/)**
 - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 - **[MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/)**
+- **[Modern JavaScript Tutorial](http://javascript.info/)**
 
 ### Package Managers
 
