@@ -25,6 +25,13 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/)**
 - **[Modern JavaScript Tutorial](http://javascript.info/)**
 
+### "Web Standards" and Validation
+
+- **[HTML5 Test](https://html5test.com/)**
+- **[W3C](https://www.w3.org/)**
+- **[W3C HTML Validator](https://validator.w3.org/)**
+- **[W3C CSS Validator](https://jigsaw.w3.org/css-validator/)**
+
 ### Package Managers
 
 - **[Bower](http://bower.io/)**
@@ -116,15 +123,16 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 ### Text Editors and Integrated Development Environments (IDE)
 
-- **[Aptana Studio](http://www.aptana.com/)**
+- **[Aptana Studio](http://www.aptana.com/)** (Free)
 - **[Atom](https://atom.io/)**
-- **[Brackets](http://brackets.io/)**
+- **[Brackets](http://brackets.io/)** (Free)
 - **[Cloud9](https://c9.io/)**
 - **[Komodo Edit](https://www.activestate.com/komodo-edit)** (Free)
 - **[Komodo IDE](http://komodoide.com/)** (Fee)
 - **[Notepad++](https://notepad-plus-plus.org/)**
+- **[StackBlitz](https://stackblitz.com/)** (Online VS Code IDE for Angular & React)
 - **[Sublime Text](http://www.sublimetext.com/)**
-- **[Visual Studio Code](https://code.visualstudio.com/)**
+- **[Visual Studio Code](https://code.visualstudio.com/)** (Free)
 - **[WebStorm](https://www.jetbrains.com/webstorm/)**
 
 ### Testing Frameworks
@@ -175,6 +183,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[jsFiddle](http://jsfiddle.net/)**
 - **[Plunker](http://plnkr.co/)**
 - **[repl.it](https://repl.it/)**
+- **[StackBlitz](https://stackblitz.com/)** (Online VS Code IDE for Angular & React)
 
 ### Blogging Platforms
 
