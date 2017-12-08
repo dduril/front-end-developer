@@ -8,7 +8,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 
 ### Environment/Platforms
 
-- **[Node](https://nodejs.org/)**
+- **[Node.js](https://nodejs.org/)** (open-source, cross-platform, runtime environment )
 
 ### Learning the Basics (Mostly Mozilla Developer Network)
 
