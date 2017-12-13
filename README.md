@@ -25,7 +25,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[MDN - Mozilla Developer Network](https://developer.mozilla.org/en-US/)**
 - **[Modern JavaScript Tutorial](http://javascript.info/)**
 
-### "Web Standards" and Validation
+### Web Standards and Validation
 
 - **[HTML5 Test](https://html5test.com/)**
 - **[W3C](https://www.w3.org/)**
