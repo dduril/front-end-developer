@@ -38,6 +38,7 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Chocolatey](https://chocolatey.org/)**
 - **[npm](https://www.npmjs.com/)** 
 	- **[Documentation](https://docs.npmjs.com/)** 
+- **[Parcel](https://parceljs.org/)**
 - **[Yarn](https://yarnpkg.com/)**
 - **[Yeoman](http://yeoman.io/)**
 
@@ -66,7 +67,9 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Knockout](http://knockoutjs.com/)** (web framework)
 - **[Meteor.js](https://www.meteor.com/)** (web framework)
 - **[Polymer](https://www.polymer-project.org/1.0/)** (library)
+- **[Popmotion](https://popmotion.io/)** (Functional JavaScript motion library)
 - **[ReactJS](https://facebook.github.io/react/)** (JavaScript library)
+	- **[Gatsby](https://www.gatsbyjs.org/)** (Site generator for React)
 - **[Vue.js](https://vuejs.org/)** (JavaScript framework)
 
 ### Front-end CSS Frameworks
@@ -134,6 +137,12 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Sublime Text](http://www.sublimetext.com/)**
 - **[Visual Studio Code](https://code.visualstudio.com/)** (Free)
 - **[WebStorm](https://www.jetbrains.com/webstorm/)**
+
+### Text Editor Tools
+
+- **[Emmet](http://emmet.io/)** (Text editor plugin to improve web development workflow)
+- **[Prettier](https://prettier.io/)** (Opinionated code formatter)
+- **[Quokka.js](https://quokkajs.com/)** (Rapid prototyping playground for JavaScript and TypeScript.)
 
 ### Testing Frameworks
 
@@ -235,11 +244,13 @@ This list is an on-going project and maintained on a regular basis as new tools 
 - **[Git](https://git-scm.com/)** (Version Control/Source Code Management)
 - **[Github](https://github.com/)** (web-based Git repository hosting service)
 - **[Google Fonts](https://fonts.google.com/)**
+- **[GraphQL](http://graphql.org/)** (Query language for APIs)
 - **[JSON](http://www.json.org/)** (Lightweight data-interchange format)
 - **[lodash](https://lodash.com/)** (JavaScript utility library)
 - **[Markdown](http://daringfireball.net/projects/markdown/)** (text to HTML conversion tool)
 - **[Modernizr](https://modernizr.com/)** (JavaScript toolkit)
 - **[Normalize.css](https://necolas.github.io/normalize.css/)** (Makes browsers render all elements consistently and in line with modern standards)
 - **[PhantomJS](http://phantomjs.org/)** - (Used for automating web page interaction)
+- **[Storybook](https://storybook.js.org/)** (UI development environment)
 - **[Underscore](http://underscorejs.org/)** (JavaScript utility library)
 
